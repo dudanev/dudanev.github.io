@@ -31,17 +31,18 @@
 }
 
 .ic {
-	width: 24px;
-	height: 24px;
+	width: 16px;
+	height: 16px;
 	display: inline-block;
 	vertical-align: middle;
 
-	&.ic-cc, &.ic-resume { width: 32px; height: 32px; }
+	&.ic-cc{ width: 24px; height: 24px; }
+	&.ic-resume { width: 18px; height: 18px; }
 
 	@media screen and (min-width: 1024px) {
-		width: 32px;
-		height: 32px;
-		&.ic-cc, &.ic-resume { width: 42px; height: 42px; }		
+		width: 24px;
+		height: 24px;
+		&.ic-cc, &.ic-resume { width: 32px; height: 32px; }		
 	}
 }
 
@@ -51,6 +52,12 @@
 	&.top-right { top: 30px; right: 30px; }
 	&.bottom-left { bottom: 30px; left: 30px; }
 	&.bottom-right { bottom: 30px; right: 30px; }
+	@media screen and (max-width: 768px) {
+		&.top-left { top: 20px; left: 20px; }
+		&.top-right { top: 20px; right: 20px; }
+		&.bottom-left { bottom: 20px; left: 20px; }
+		&.bottom-right { bottom: 20px; right: 20px; }
+	}
 }
 
 .wrapper {
