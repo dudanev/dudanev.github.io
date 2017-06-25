@@ -22,18 +22,27 @@
 	justify-content: center;
 	text-align: center;
 
-	.logo {
-		margin-top: 100px;
+	.logo { width: 180px; }
+
+	@media screen and (min-width: 1024px) {
+		.logo { margin-top: 100px; }
+		.logo { width: 100%; }
 	}
 }
 
 .ic {
-	width: 32px;
-	height: 32px;
+	width: 24px;
+	height: 24px;
 	display: inline-block;
 	vertical-align: middle;
 
-	&.ic-cc, &.ic-resume { width: 42px; height: 42px; }
+	&.ic-cc, &.ic-resume { width: 32px; height: 32px; }
+
+	@media screen and (min-width: 1024px) {
+		width: 32px;
+		height: 32px;
+		&.ic-cc, &.ic-resume { width: 42px; height: 42px; }		
+	}
 }
 
 .ic--floated {
@@ -44,10 +53,18 @@
 	&.bottom-right { bottom: 30px; right: 30px; }
 }
 
-
 .wrapper {
 	max-width: 1080px;
+	height: 100%;
 	margin: 0 auto;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+
+	@media screen and (min-width: 1024px) {
+		align-items: baseline;
+	}
+
 }
-
-
