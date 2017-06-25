@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="ic ic-resume ic--floated top-left"></div>
+      <div class="ic ic-linkedin ic--floated top-right"></div>
+      <div class="ic ic-carcolective ic--floated bottom-left"></div>
+      <div class="ic ic-behance ic--floated bottom-right"></div>
+        <div class="wrapper">
+          {% include header.html %}
+          {{ content }}
+        </div>
+    
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

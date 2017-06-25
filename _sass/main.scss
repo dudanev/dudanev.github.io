@@ -1,0 +1,44 @@
+@charset "utf-8";
+@import 'base',
+		'flexboxgrid.min.css', 
+		'syntax-highlighting';
+
+@import url(http://weloveiconfonts.com/api/?family=fontawesome);
+
+/* fontawesome */
+[class*="fontawesome-"]:before {
+  font-family: 'FontAwesome', sans-serif;
+}
+
+.page-content {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+
+.ic {
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.ic--floated {
+	position: absolute;
+	&.top-left { top: 30px; left: 30px; }
+	&.top-right { top: 30px; right: 30px; }
+	&.bottom-left { bottom: 30px; left: 30px; }
+	&.bottom-right { bottom: 30px; right: 30px; }
+}
+
+[class*="ic-"] {
+	background-color: aliceblue;
+}
+
+
+.wrapper {
+	max-width: 1080px;
+	margin: 0 auto;
+}
+
+
