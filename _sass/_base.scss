@@ -26,7 +26,12 @@ img {
     vertical-align: middle;
 }
 
-html {font-size: 0.875em;}
+html {
+    font-size: 0.875em;
+    @media (min-width: 480px) {
+        font-size: 1em;
+    }
+}
 
 body {
   background-color: white;
@@ -46,13 +51,13 @@ h1, h2, h3, h4 {
 
 h1 {
   margin-top: 0;
-  font-size: 2.074em;
+  font-size: 2.441em;
 }
 
-h2 {font-size: 1.728em;}
+h2 {font-size: 1.953em;}
 
-h3 {font-size: 1.44em;}
+h3 {font-size: 1.563em;}
 
-h4 {font-size: 1.2em;}
+h4 {font-size: 1.25em;}
 
-small, .font_small {font-size: 0.833em;}
+small, .font_small {font-size: 0.8em;}
