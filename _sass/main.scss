@@ -13,8 +13,6 @@
 .page-content {
 	position: relative;
 	width: 100%;
-	height: 100vh;
-	overflow: hidden;
 }
 
 .header {
@@ -42,7 +40,8 @@
 	@media screen and (min-width: 1024px) {
 		width: 24px;
 		height: 24px;
-		&.ic-cc, &.ic-resume { width: 32px; height: 32px; }		
+		&.ic-cc { width: 32px; height: 32px; }		
+		&.ic-resume { width: 24px; height: 24px; }
 	}
 }
 
@@ -53,17 +52,15 @@
 	&.bottom-left { bottom: 30px; left: 30px; }
 	&.bottom-right { bottom: 30px; right: 30px; }
 	@media screen and (max-width: 768px) {
-		&.top-left { top: 20px; left: 20px; }
-		&.top-right { top: 20px; right: 20px; }
-		&.bottom-left { bottom: 20px; left: 20px; }
-		&.bottom-right { bottom: 20px; right: 20px; }
+		&.top-left { top: 15px; left: 15px; }
+		&.top-right { top: 15px; right: 15px; }
+		&.bottom-left { bottom: 15px; left: 15px; }
+		&.bottom-right { bottom: 15px; right: 15px; }
 	}
 }
 
 .wrapper {
 	max-width: 1080px;
-	height: 100vh;
-	max-height: 100vh;
 	margin: 0 auto;
 
 	display: flex;
@@ -75,4 +72,73 @@
 		align-items: baseline;
 	}
 
+}
+
+.portfolio {
+	flex: 1 0 100%;
+	padding: 2em;
+
+	display: flex;
+	flex-wrap: wrap;
+}
+
+
+/* POSTS */
+
+.work-wrapper {
+	display: flex;
+	flex-wrap: wrap;
+	padding: 4em 2em;
+}
+
+.work-meta > .wm__client, 
+.work-meta > .wm__agency {
+	margin-bottom: 1em;
+	
+	> h4 {
+		letter-spacing: 5px;
+		text-transform: uppercase;
+		font-weight: 700;
+		font-size: 1em;
+	}
+
+	> p { white-space: nowrap; }
+}
+
+.work-meta > .wm__pub-date { 
+	margin-left: auto; 
+	margin-bottom: 1em;
+	text-align: right;
+}
+.work-meta h4, .work-meta p {
+	margin: 0;
+}
+
+.work {
+
+	.wrk__image {
+		background-repeat: no-repeat;
+		background-size: 100% auto;
+		padding-bottom: 37.1%;
+		background: linear-gradient(to bottom, #29323c, #485563);
+		
+	}
+
+	
+}
+
+.wrk__content {
+
+	&.wrk__content--wrapper {
+		max-width: 70%;
+		margin: 0 auto;
+	}
+}
+
+.wrk__title {
+	font-family: 'Playfair Display', serif;
+}
+
+.after-img {
+	margin-top: 1em;
 }
