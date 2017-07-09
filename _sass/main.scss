@@ -13,19 +13,18 @@
 .page-content {
 	position: relative;
 	width: 100%;
+	min-height: 100vh;
 }
 
 .header {
+	flex: 1 0 100%;
 	display: flex;
 	justify-content: center;
 	text-align: center;
+	margin: 4em 0;
 
 	.logo { width: 180px; }
 
-	@media screen and (min-width: 1024px) {
-		.logo { margin-top: 100px; }
-		.logo { width: 100%; }
-	}
 }
 
 .ic {
@@ -103,12 +102,20 @@
 	}
 
 	> p { white-space: nowrap; }
+
+	@media screen and (max-width: 480px) {
+		> h4 { font-size: 0.8em; }
+	}
 }
 
 .work-meta > .wm__pub-date { 
 	margin-left: auto; 
 	margin-bottom: 1em;
 	text-align: right;
+	@media screen and (max-width: 480px) {
+		font-size: 0.8em;
+		margin-bottom: 1.3em;
+	}
 }
 .work-meta h4, .work-meta p {
 	margin: 0;
@@ -135,8 +142,31 @@
 	}
 }
 
+ s {
+     text-decoration: none;
+     background-image: linear-gradient(transparent 10px, #333 10px, #333 12px, transparent 9px);
+     background-position: 0 27px;
+  }
+
 .wrk__title {
 	font-family: 'Playfair Display', serif;
+	font-style: italic;
+	position: relative;
+	display: inline-block;
+	white-space: pre-line;
+
+	&:before {
+		content: "";
+	    display: inline-block;
+	    vertical-align: middle;
+	    width: 50px;
+	    position: absolute;
+	    top: .8em;
+	    height: 1px;
+	    background-color: #424242;
+	    left: -60px;
+	}
+
 }
 
 .after-img {
