@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "design,\nexpressividade\ne arte"
 date:   2017-06-24 19:34:40 -0300
 categories: jekyll update
 client: Ió Brasil
 agency: Agora Comunicação
 image: http://via.placeholder.com/1080x400
+is_title-striked: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new posts, simply add a file in the  
+ `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. 
 
 Jekyll also offers powerful support for code snippets:
 
