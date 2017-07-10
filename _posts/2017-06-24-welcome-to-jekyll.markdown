@@ -10,7 +10,7 @@ categories:
 client: Ió Brasil
 agency: Agora Comunicação
 image: http://via.placeholder.com/1080x400
-is_title-striked: false
+is_title-striked: true
 layout: post
 ---
 
