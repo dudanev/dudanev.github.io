@@ -31,5 +31,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "default"
-      author: "Ethan"
+      layout: "post"
+      client: "none"
+      agency: "none"
+      image: http://via.placeholder.com/1080x400
