@@ -86,9 +86,15 @@
 /* POSTS */
 
 .work-wrapper {
+	flex: 1 0 100%;
 	display: flex;
 	flex-wrap: wrap;
 	padding: 4em 2em;
+}
+
+.post {
+	flex: 1 0 100%;
+	width: 100%;
 }
 
 .work-meta { 
