@@ -33,13 +33,12 @@
 	display: inline-block;
 	vertical-align: middle;
 
-	&.ic-cc{ width: 24px; height: 24px; }
-	&.ic-resume { width: 18px; height: 18px; }
+	
+	
 
 	@media screen and (min-width: 1024px) {
 		width: 24px;
-		height: 24px;
-		&.ic-cc { width: 32px; height: 32px; }		
+		height: 24px;		
 		&.ic-resume { width: 24px; height: 24px; }
 	}
 }
@@ -90,9 +89,21 @@
 	padding: 4em 2em;
 }
 
+.work-meta { 
+	margin: 0 0 0 0;
+
+	@media screen and (min-width: 426px) and (max-width: 768px) {
+		margin-bottom: 2em;
+	}
+
+	@media screen and (min-width: 768px) {
+		margin-bottom: 4em;
+	}
+
+}
+
 .work-meta > .wm__client, 
 .work-meta > .wm__agency {
-	margin-bottom: 1em;
 	
 	> h4 {
 		letter-spacing: 5px;
@@ -103,19 +114,31 @@
 
 	> p { white-space: nowrap; }
 
+	@media screen and (max-width: 425px) {
+		flex-basis: 50%;
+		max-width: 50%;
+	}
+
 	@media screen and (max-width: 480px) {
 		> h4 { font-size: 0.8em; }
 	}
+
 }
 
 .work-meta > .wm__pub-date { 
 	margin-left: auto; 
-	margin-bottom: 1em;
 	text-align: right;
 	@media screen and (max-width: 480px) {
 		font-size: 0.8em;
 		margin-bottom: 1.3em;
 	}
+
+	@media screen and (max-width: 425px) {
+		text-align: left;
+		margin-left: 0;
+		margin-top: 1em;
+	}
+
 }
 .work-meta h4, .work-meta p {
 	margin: 0;
@@ -139,7 +162,12 @@
 	&.wrk__content--wrapper {
 		max-width: 70%;
 		margin: 0 auto;
+		@media screen and (max-width: 375px) {
+			max-width: 100%;	
+		}
 	}
+
+
 }
 
  s {
