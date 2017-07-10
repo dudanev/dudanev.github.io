@@ -14,7 +14,7 @@ description: 'Write an awesome description for your new site here. You can edit 
   results) and in your feed.xml site description.
 
 '
-baseurl: ''
+baseurl: 
 url: https://dudanev.github.io
 twitter_username: jekyllrb
 github_username: jekyll
@@ -24,13 +24,3 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-
-defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
-      values:
-        layout: "post"
-        client: "none"
-        agency: "none"
