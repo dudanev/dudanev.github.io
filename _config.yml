@@ -24,3 +24,12 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+      author: "Ethan"
