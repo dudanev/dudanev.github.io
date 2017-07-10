@@ -110,9 +110,10 @@
 		text-transform: uppercase;
 		font-weight: 700;
 		font-size: 1em;
+		margin: 0;
 	}
 
-	> p { white-space: nowrap; }
+	> p { white-space: nowrap; margin: .2em 0 0 0; }
 
 	@media screen and (max-width: 425px) {
 		flex-basis: 50%;
@@ -139,9 +140,6 @@
 		margin-top: 1em;
 	}
 
-}
-.work-meta h4, .work-meta p {
-	margin: 0;
 }
 
 .work {
