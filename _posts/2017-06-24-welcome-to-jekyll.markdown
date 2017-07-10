@@ -3,15 +3,15 @@ title: |-
   design,
   expressividade
   e arte
-date: 2017-06-24 22:34:40 Z
+date: 2017-06-24 22:34:00 Z
 categories:
 - jekyll
 - update
-layout: post
 client: Ió Brasil
 agency: Agora Comunicação
 image: http://via.placeholder.com/1080x400
-is_title-striked: true
+is_title-striked: false
+layout: post
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
