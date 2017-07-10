@@ -9,7 +9,7 @@ categories:
 - update
 client: Ió Brasil
 agency: Agora Comunicação
-image: http://via.placeholder.com/1080x400
+image: https://unsplash.it/1080/400
 is_title-striked: true
 layout: post
 ---
