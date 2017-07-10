@@ -22,9 +22,11 @@
 	justify-content: center;
 	text-align: center;
 	margin: 4em 0;
-
+	
 	.logo { width: 180px; }
-
+	@media screen and (max-width: 768px) {
+		margin-bottom: 0;
+	}
 }
 
 .ic {
