@@ -11,6 +11,7 @@ layout: post
 client: Ió Brasil
 agency: Agora Comunicação
 image: http://via.placeholder.com/1080x400
+thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
 is_title-striked: true
 ---
 
