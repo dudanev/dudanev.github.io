@@ -47,16 +47,16 @@
 }
 
 .ic--floated {
-	position: absolute;
-	&.top-left { top: 30px; left: 30px; }
-	&.top-right { top: 30px; right: 30px; }
-	&.bottom-left { bottom: 30px; left: 30px; }
-	&.bottom-right { bottom: 30px; right: 30px; }
+	position: fixed;
+	&.top-left { top: 2.7%; left: 1%; }
+	&.top-right { top: 2.7%; right: 1%; }
+	&.bottom-left { bottom: 2.7%; left: 1%; }
+	&.bottom-right { bottom: 2.7%; right: 1%; }
 	@media screen and (max-width: 768px) {
-		&.top-left { top: 15px; left: 15px; }
-		&.top-right { top: 15px; right: 15px; }
-		&.bottom-left { bottom: 15px; left: 15px; }
-		&.bottom-right { bottom: 15px; right: 15px; }
+		&.top-left { top: 1.5%; left: 1.5%; }
+		&.top-right { top: 1.5%; right: 1.5%; }
+		&.bottom-left { bottom: 1.5%; left: 1.5%; }
+		&.bottom-right { bottom: 1.5%; right: 1.5%; }
 	}
 }
 
