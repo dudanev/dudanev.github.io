@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<header class="header">
+	<a href="{{ site.url }}" class="logo-full">
+	  <img src="/assets/logo+type.svg" alt="Duda Neves">
+	</a>
+</header>
 
 <section class="portfolio">
 		<ul class="works-grid">
@@ -9,7 +14,7 @@ layout: default
 			{% for post in site.posts %}
 			<li class="work-item" data-title="{{ post.title }}">
 				<a href="{{post.url}}">
-					<img src="{{ post.thumb }}" />
+					<img src="{{ post.thumb }}" onhashchange="changeOpacity()" />
 				</a>
 			</li>
 			{% endfor %}

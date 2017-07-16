@@ -10,6 +10,20 @@
   font-family: 'FontAwesome', sans-serif;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+body {
+  -ms-overflow-style:none;
+}
+
+a:focus { outline: none; }
+
 .page-content {
 	position: relative;
 	width: 100%;
@@ -23,7 +37,9 @@
 	text-align: center;
 	margin: 2em 0;
 	
-	.logo { width: 180px; }
+	.logo--eye {
+		width: 40px;
+	}
 
 	@media (min-width: 768px) {
 		margin: 4em 0;
@@ -208,6 +224,13 @@
 }
 
 /* WORK GRID - HOMEPAGE */
+
+.logo-full > img {
+	width: 160px;
+	@media (min-width: 768px) {
+		width: 300px;
+	}
+}
 
 .works-grid {
 	list-style: none;

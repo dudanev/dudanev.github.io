@@ -1,7 +1,11 @@
 ---
 layout: default
 ---
-
+<header class="header">
+  <a href="{{ site.url }}" class="logo--eye">
+    <img src="/assets/logo.svg" alt="Duda Neves">
+  </a>
+</header>
 <div class="work-wrapper">
 
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
@@ -22,10 +26,11 @@ layout: default
       {% endif %}
       
       <div class="wm__pub-date col-xs-4 col-sm-2">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-          {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-          {{ page.date | date: date_format }}
+        {% if page.release-year %}
+        <time datetime="{{ page.work-date }}" itemprop="datePublished">
+          {{ page.release-year }}
         </time>
+        {% endif %}
       </div>
       
     </div>

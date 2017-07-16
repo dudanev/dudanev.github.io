@@ -1,3 +1,4 @@
+
 document.addEventListener("DOMContentLoaded", function() {
   
 	var mnsry = new Masonry('.works-grid', {
@@ -7,8 +8,5 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	});
 
-
-
-
-
 });
+
