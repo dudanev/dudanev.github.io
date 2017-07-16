@@ -296,6 +296,7 @@ a:focus { outline: none; }
 	}
 
 	&:after {
+		opacity: 0;
 		content: attr(data-title);
 		text-decoration: underline;
 		display: block;	
@@ -311,6 +312,11 @@ a:focus { outline: none; }
 
 	&:hover img {
 		opacity: 0;
+	}
+
+	&.img-loaded:after {
+		opacity: 1;
+		transition: opacity 380ms ease-in-out;
 	}
 
 }
