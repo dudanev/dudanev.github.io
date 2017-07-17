@@ -3,17 +3,17 @@ title: |-
   design,
   expressividade
   e arte
-date: 2017-06-24 22:34:40 Z
+date: 2017-06-24 22:34:00 Z
 categories:
 - jekyll
 - update
-layout: post
-client: Ió Brasil
-agency: Agora Comunicação
-release-year: 2017
 image: http://via.placeholder.com/1080x400
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
+client: Ió Brasil
+agency: Agora Comunicação
 is_title-striked: true
+release-year: 2017
+layout: post
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -36,3 +36,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+![Screenshot from 2017-07-17 12-49-01.png](/uploads/Screenshot%20from%202017-07-17%2012-49-01.png)
