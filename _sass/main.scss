@@ -177,10 +177,16 @@ a:focus { outline: none; }
 .work {
 
 	.wrk__image {
-		background-repeat: no-repeat;
-		background-size: 100% auto;
-		padding-bottom: 37.1%;
-		background: linear-gradient(to bottom, #29323c, #485563);
+		background-size: cover;
+		background-position: center;
+		background-color: linear-gradient(to bottom, #29323c, #485563);
+		&:after {
+			content: " ";
+			display: block;
+			width: 100%;
+			padding-top: 4.918%;
+			height: 130.786px;
+		}
 		
 	}
 
@@ -225,10 +231,17 @@ a:focus { outline: none; }
 	    left: -60px;
 	}
 
+	@media (max-width: 480px) {
+		font-size: 2.313em;
+	}
+
 }
 
 .after-img {
 	margin-top: 1em;
+	@media (max-width: 480px) {
+		margin-top: .5em;
+	}
 }
 
 /* WORK GRID - HOMEPAGE */
