@@ -220,6 +220,9 @@ a:focus { outline: none; }
      text-decoration: none;
      background-image: linear-gradient(transparent 10px, #333 10px, #333 12px, transparent 9px);
      background-position: 0 27px;
+     @media (max-width: 480px) {
+     	background-position: 0 17px;
+     }
   }
 
 .wrk__title {
