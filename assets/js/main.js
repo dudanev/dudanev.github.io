@@ -4,11 +4,14 @@ document.addEventListener("DOMContentLoaded", function() {
   	var grid, item;
 
   	grid = document.querySelector('.works-grid');
-  	item = document.querySelector('.work-item');
+  	item = document.querySelectorAll('.work-item');
 
 	imagesLoaded( grid, function() {
 
-		item.classList.add('img-loaded');
+		for (let i = 0; i < item.length; i++) {
+			item[i].classList.add('img-loaded');	
+		}
+		
 
 
 		var mnsry = new Masonry('.works-grid', {
