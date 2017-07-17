@@ -68,6 +68,7 @@ a:focus { outline: none; }
 
 .ic--floated {
 	position: fixed;
+	z-index: 99;
 	&.top-left { top: 2.7%; left: 1%; }
 	&.top-right { top: 2.7%; right: 1%; }
 	&.bottom-left { bottom: 2.7%; left: 1%; }
@@ -254,15 +255,14 @@ a:focus { outline: none; }
 
 .work-sizer,
 .work-item {
-	width: 110px;
-	margin-left: 10px;
-	margin-right: 10px;
+	width: 300px; 
 	margin-bottom: 20px;
-	@media (min-width: 376px) and (max-width: 480px) {
-		width: 140px;
-	}
+
 	@media (min-width: 481px) {
 		width: 180px;
+		margin-right: 10px;
+		margin-left: 10px;
+
 	}
 	@media (min-width: 768px) {
 		width: 330px;
