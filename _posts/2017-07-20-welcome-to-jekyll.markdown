@@ -16,21 +16,7 @@ release-year: 2017
 layout: post
 ---
 
-*Um lugar onde design, *
-
-*expressividade e arte contam *
-
-*sua própria história. Onde a *
-
-*pluraridade dos significados *
-
-*de cada objeto se comunica *
-
-*com as singularidades de*
-
-* cada um. O habitat do que *
-
-*é essencial.*
+*Um lugar onde design, expressividade e arte contam sua própria história. Onde a pluraridade dos significados de cada objeto se comunica com as singularidades de cada um. O habitat do que é essencial.*
 
 *A place where design, expressiveness and art tell their own story. Where the plurality of the meanings of each object communicates with the singularities of each. The habitat of what
 it's essential.*
