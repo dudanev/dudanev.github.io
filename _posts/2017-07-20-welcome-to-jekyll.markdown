@@ -3,7 +3,7 @@ title: |-
   design,
   expressividade
   e arte
-date: 2017-06-24 22:34:00 Z
+date: 2017-07-20 00:00:00 Z
 categories:
 - jekyll
 - update
