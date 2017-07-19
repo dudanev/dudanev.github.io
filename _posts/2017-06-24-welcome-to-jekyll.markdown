@@ -16,4 +16,3 @@ release-year: 2017
 layout: post
 ---
 
-![capa-io-1080x400.png](/uploads/capa-io-1080x400.png)
