@@ -16,11 +16,18 @@ release-year: 2017
 layout: post
 ---
 
-*Um lugar onde design, *\
-*expressividade e arte contam *\
-*sua própria história. Onde a *\
-*pluraridade dos significados *\
-*de cada objeto se comunica *\
-*com as singularidades de *\
-*cada um. O habitat do que
-é essencial.*
+*Um lugar onde design, *
+
+*expressividade e arte contam *
+
+*sua própria história. Onde a *
+
+*pluraridade dos significados *
+
+*de cada objeto se comunica *
+
+*com as singularidades de *
+
+*cada um. O habitat do que*
+
+*é essencial.*
