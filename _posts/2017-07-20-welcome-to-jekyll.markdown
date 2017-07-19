@@ -20,3 +20,5 @@ layout: post
 
 *A place where design, expressiveness and art tell their own story. Where the plurality of the meanings of each object communicates with the singularities of each. The habitat of what
 it's essential.*
+
+![mockup.png](/uploads/mockup.png)
