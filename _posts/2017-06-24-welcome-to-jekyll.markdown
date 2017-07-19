@@ -9,7 +9,7 @@ categories:
 - update
 client: Ió Brasil
 agency: Agora Comunicação
-image: "/uploads/capa-io-1080x400-551713.png"
+image: "/uploads/capa-io-1080x400-2.png"
 is_title-striked: true
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
 release-year: 2017
