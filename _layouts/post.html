@@ -56,6 +56,9 @@ layout: default
     {% if site.disqus.shortname %}
       {% include disqus_comments.html %}
     {% endif %}
+
+
+    <input type="hidden" name="column-text" value="{{page.column-text}}">
   </article>
 
 </div>
