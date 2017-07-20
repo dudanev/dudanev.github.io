@@ -10,16 +10,6 @@ html, body {
     overflow-x: hidden;
 }
 
-html {font-size: 1.125em;}
-
-body {
-    font-family: 'Libre Baskerville', serif;
-    font-weight: 400;
-    line-height: 1.45;
-    background-color: white;
-    color: $text-color;
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -35,7 +25,7 @@ body {
   font-family: 'Libre Baskerville', serif;
   font-weight: 400;
   line-height: 1.45;
-  color: #333;
+  color: #212121;
 }
 
 p {margin-bottom: 1.3em;}
