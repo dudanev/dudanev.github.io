@@ -13,6 +13,7 @@ image: "/uploads/capa-io-1080x400-2.png"
 is_title-striked: true
 thumb: https/uploads/capa-io-1080x400-2.png://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
 release-year: 2017
+column-txt: true
 layout: post
 ---
 
