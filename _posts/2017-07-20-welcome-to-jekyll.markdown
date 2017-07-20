@@ -23,6 +23,6 @@ it's essential.*
 
 ![mockup.png](/uploads/mockup.png)
 
-Edição 54 | Edição 55
+Edição 54 | Edição 56
 
 ![capa.png](/uploads/capa.png)
