@@ -22,3 +22,7 @@ layout: post
 it's essential.*
 
 ![mockup.png](/uploads/mockup.png)
+
+Edição 54 | Edição 55
+
+![capa.png](/uploads/capa.png)
