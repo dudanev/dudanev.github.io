@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+
+    <main class="page-content" aria-label="Content">
+      <a href="#" class="ic ic-resume ic--floated top-left">
+        <img src="/assets/cargo-about-02.svg" alt="curriculo">
+      </a>
+      <a href="https://www.linkedin.com/dudanev" class="ic ic-linkedin ic--floated top-right" target="_blank">
+        <img src="/assets/linkedin-logo.svg" alt="curriculo">
+      </a>
+      <a href="https://www.cargocollective.com/dudanev" class="ic ic-cc ic--floated bottom-left" target="_blank">
+        <img src="/assets/cargo-about-01.svg" alt="curriculo">
+      </a>
+      <a href="https://www.behance.net/dudanev" class="ic ic-behance ic--floated bottom-right" target="_blank">
+        <img src="/assets/behance-logo.svg" alt="curriculo">
+      </a>
+        <div class="wrapper">
+
+          {{ content }}
+        </div>
+    
+    </main>
+
+
+  </body>
+
+</html>

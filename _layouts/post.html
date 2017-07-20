@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<header class="header">
+  <a href="{{ site.url }}" class="logo--eye">
+    <img src="/assets/logo.svg" alt="Duda Neves">
+  </a>
+</header>
+<div class="work-wrapper">
+
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <div class="work-meta row bottom-xs">
+
+      {% if page.client %}
+        <div class="wm__client col-xs-4 col-sm-2">
+          <h4>Cliente_</h4>
+          <p class="font_small">{{ page.client }}</p>
+        </div>
+      {% endif %}
+
+      {% if page.agency %}
+        <div class="wm__agency col-xs-4 col-sm-2">
+          <h4>Agencia_</h4>
+          <p class="font_small">{{ page.agency }}</p>
+        </div>
+      {% endif %}
+      
+      <div class="wm__pub-date col-xs-4 col-sm-2">
+        {% if page.release-year %}
+        <time datetime="{{ page.work-date }}" itemprop="datePublished">
+          {{ page.release-year }}
+        </time>
+        {% endif %}
+      </div>
+      
+    </div>
+    
+
+    <div class="work" itemprop="articleBody">
+        <!-- <img src="{{page.image}}" alt=""> -->
+      <div class="wrk__image" {% if page.image %} style="background-image: url('{{ page.image }}');" {% endif %}>
+      </div>
+
+      
+      <div class="wrk__content wrk__content--wrapper">
+        {% if page.title %}
+          <h1 class="wrk__title after-img"><!--line-through in title-->{% if page.is_title-striked %}<s>{%endif%}{{ page.title }} <!-- the title -->{% if page.is_title-striked%}</s>{%endif%}
+          </h1>
+        {% endif %}
+        {{ content }}  
+      </div>
+      
+    </div>
+
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
+
+    <input type="hidden" name="column-text" value="{{page.column-text}}">
+  </article>
+
+</div>
