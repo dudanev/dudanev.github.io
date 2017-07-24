@@ -16,7 +16,9 @@ defaults:
     layout: post
     client: none
     agency: none
+    release-year: 0000
     image: http://via.placeholder.com/1080x400
+    thumb: http://via.placeholder.com/400x600
     is_title-striked: false
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this
