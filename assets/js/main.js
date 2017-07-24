@@ -40,7 +40,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
 		// console.log(isTrue);
 
-		$('.wrk__content p').each(function (){
+		var paragraphs = $('.wrk__content p');
+
+		paragraphs.each(function (){
 			var _ = $(this);
 			var found = false;
 			var newColOne, newColTwo;
@@ -90,6 +92,32 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
+	})();
+
+	(function alignTextCenter(){
+
+		var paragraphs = $('.wrk__content p');
+		var txtCenter = "texto_centro!";
+
+		if (paragraphs) {
+
+			paragraphs.each(function(){
+				var ele = $(this);
+				var index = ele.text().indexOf(txtCenter);
+				
+				if (index > -1){
+					var txt = ele.text();
+
+					ele.addClass('text-center');
+					txt = txt.slice(txtCenter.length, txt.length);
+					ele.text(txt);
+				}
+
+
+
+			});	
+		}
+		
 	})();
 	
 
