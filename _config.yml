@@ -16,7 +16,7 @@ defaults:
     layout: post
     client: none
     agency: none
-    release-year: 0000
+    release-year: 0
     image: http://via.placeholder.com/1080x400
     thumb: http://via.placeholder.com/400x600
     is_title-striked: false
