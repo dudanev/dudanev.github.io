@@ -180,6 +180,7 @@ a:focus { outline: none; }
 		background-size: cover;
 		background-position: center;
 		background-color: linear-gradient(to bottom, #29323c, #485563);
+		margin: 0 -2em;
 		&:after {
 				content: " ";
 				display: block;
