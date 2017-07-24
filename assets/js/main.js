@@ -34,69 +34,90 @@ document.addEventListener("DOMContentLoaded", function() {
 	/* CREATE COLUMN TEXT */
 	(function createColumnText(){
 
-		var isTrue = document.getElementsByName('column-text')[0].value;
 		var colOne = "coluna_um!",
 			colTwo = "coluna_dois!";
 
 
 		// console.log(isTrue);
 
-		if(isTrue) {
+		var paragraphs = $('.wrk__content p');
 
-			$('.wrk__content p').each(function (){
-				var _ = $(this);
-				var found = false;
-				var newColOne, newColTwo;
-				// console.log(colOne);
-				var index = _.text().indexOf(colOne);
-				
+		paragraphs.each(function (){
+			var _ = $(this);
+			var found = false;
+			var newColOne, newColTwo;
+			// console.log(colOne);
+			var index = _.text().indexOf(colOne);
+			
+			// console.log(index);
+
+			if(index > -1) {
 				// console.log(index);
+				_.addClass('txt-col txt-col__one');
+				var txt = _.text();
 
-				if(index > -1) {
-					// console.log(index);
-					_.addClass('txt-col txt-col__one');
-					var txt = _.text();
-
-					txt = txt.slice(colOne.length, txt.length);
-					// console.log(txt, colOne.length );
-					_.text(txt)
-					// console.log(_.text());
-					// _.wrap(container);
-					
-				}
-
-				index = _.text().indexOf(colTwo);
-				if (index > -1) {
-					_.addClass('txt-col txt-col__two');
-					var txt = _.text();
-
-					txt = txt.slice(colTwo.length, txt.length);
-					// console.log(txt, colOne.length );
-					_.text(txt)
-					// container.html(_);
-					// _.remove();
-					found = true;
-				}
-
-				if (found) {
-					var container = "<div class='txt-col-container'></div>";
-					$('.txt-col').wrapAll(container);
-				}
-
+				txt = txt.slice(colOne.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// console.log(_.text());
+				// _.wrap(container);
 				
+			}
+
+			index = _.text().indexOf(colTwo);
+			if (index > -1) {
+				_.addClass('txt-col txt-col__two');
+				var txt = _.text();
+
+				txt = txt.slice(colTwo.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// container.html(_);
+				// _.remove();
+				found = true;
+			}
+
+			if (found) {
+				var container = "<div class='txt-col-container'></div>";
+				$('.txt-col').wrapAll(container);
+			}
+
+			
 
 
-			});
+		});
+
+
+		
 
 
 
+	})();
+
+	(function alignTextCenter(){
+
+		var paragraphs = $('.wrk__content p');
+		var txtCenter = "texto_centro!";
+
+		if (paragraphs) {
+
+			paragraphs.each(function(){
+				var ele = $(this);
+				var index = ele.text().indexOf(txtCenter);
+				
+				if (index > -1){
+					var txt = ele.text();
+
+					ele.addClass('text-center');
+					txt = txt.slice(txtCenter.length, txt.length);
+					ele.text(txt);
+				}
 
 
 
+			});	
 		}
-
-
-
+		
 	})();
 	
 
