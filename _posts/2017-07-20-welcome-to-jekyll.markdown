@@ -9,10 +9,10 @@ categories:
 - update
 client: Ió Brasil
 agency: Ágora Comunicação
-image: "/uploads/capa-io-1080x400-2.png"
-is_title-striked: true
-thumb: https/uploads/capa-io-1080x400-2.png://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
 release-year: 2017
+image: "/uploads/capa-io-1080x400-2.png"
+thumb: https/uploads/capa-io-1080x400-2.png://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
+is_title-striked: true
 layout: post
 ---
 
@@ -23,6 +23,6 @@ it's essential.
 
 ![mockup.png](/uploads/mockup.png)
 
-texto_centro!Edição 54 | Edição 56
+texto_centro!Edição 54 / Edição 56
 
 ![capa.png](/uploads/capa.png)
