@@ -34,66 +34,59 @@ document.addEventListener("DOMContentLoaded", function() {
 	/* CREATE COLUMN TEXT */
 	(function createColumnText(){
 
-		var isTrue = document.getElementsByName('column-text')[0].value;
 		var colOne = "coluna_um!",
 			colTwo = "coluna_dois!";
 
 
 		// console.log(isTrue);
 
-		if(isTrue) {
+		$('.wrk__content p').each(function (){
+			var _ = $(this);
+			var found = false;
+			var newColOne, newColTwo;
+			// console.log(colOne);
+			var index = _.text().indexOf(colOne);
+			
+			// console.log(index);
 
-			$('.wrk__content p').each(function (){
-				var _ = $(this);
-				var found = false;
-				var newColOne, newColTwo;
-				// console.log(colOne);
-				var index = _.text().indexOf(colOne);
-				
+			if(index > -1) {
 				// console.log(index);
+				_.addClass('txt-col txt-col__one');
+				var txt = _.text();
 
-				if(index > -1) {
-					// console.log(index);
-					_.addClass('txt-col txt-col__one');
-					var txt = _.text();
-
-					txt = txt.slice(colOne.length, txt.length);
-					// console.log(txt, colOne.length );
-					_.text(txt)
-					// console.log(_.text());
-					// _.wrap(container);
-					
-				}
-
-				index = _.text().indexOf(colTwo);
-				if (index > -1) {
-					_.addClass('txt-col txt-col__two');
-					var txt = _.text();
-
-					txt = txt.slice(colTwo.length, txt.length);
-					// console.log(txt, colOne.length );
-					_.text(txt)
-					// container.html(_);
-					// _.remove();
-					found = true;
-				}
-
-				if (found) {
-					var container = "<div class='txt-col-container'></div>";
-					$('.txt-col').wrapAll(container);
-				}
-
+				txt = txt.slice(colOne.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// console.log(_.text());
+				// _.wrap(container);
 				
+			}
+
+			index = _.text().indexOf(colTwo);
+			if (index > -1) {
+				_.addClass('txt-col txt-col__two');
+				var txt = _.text();
+
+				txt = txt.slice(colTwo.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// container.html(_);
+				// _.remove();
+				found = true;
+			}
+
+			if (found) {
+				var container = "<div class='txt-col-container'></div>";
+				$('.txt-col').wrapAll(container);
+			}
+
+			
 
 
-			});
+		});
 
 
-
-
-
-
-		}
+		
 
 
 
