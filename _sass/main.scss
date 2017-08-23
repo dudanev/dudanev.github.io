@@ -68,6 +68,7 @@ a:focus { outline: none; }
 
 .bg {
 	background: url('/assets/geometry2.png') repeat scroll;
+	background-attachment: fixed;
 }
 
 .ic--floated {
