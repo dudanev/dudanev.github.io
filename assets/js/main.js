@@ -126,3 +126,27 @@ document.addEventListener("DOMContentLoaded", function() {
 
 });
 
+
+$(function(){
+	var scene = document.getElementById('scene');
+
+	var layer = $('.layer');
+	var imgs = $('.layer a img');
+
+	
+	layer.each(function(e){
+		var number = getRandomFloat(0.4,0.7);
+		$(this).attr('data-depth', number);
+	});
+	
+
+	function getRandomFloat(min, max) {
+		return Math.random() * (max - min) + min;
+	}
+	
+	
+	var parallax = new Parallax(scene);
+
+	
+	
+});

@@ -66,6 +66,10 @@ a:focus { outline: none; }
 	}
 }
 
+.bg {
+	background: url('/assets/geometry2.png') repeat scroll;
+}
+
 .ic--floated {
 	position: fixed;
 	z-index: 99;
@@ -259,6 +263,17 @@ a:focus { outline: none; }
 }
 
 /* WORK GRID - HOMEPAGE */
+
+.layer {
+	pointer-events: none;
+	cursor: pointer;
+	box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+	transition: box-shadow 380ms ease-in-out;
+	&:hover {
+		box-shadow: none;
+	}
+	> a { pointer-events: all; }
+}
 
 .logo-full > img {
 	width: 220px;
