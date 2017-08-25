@@ -11,7 +11,7 @@ client: Ió Brasil
 agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-io-1080x400-2.png"
-thumb: https/uploads/capa-io-1080x400-2.png://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg
+thumb: http://unsplash.it/440/700
 is_title-striked: true
 layout: post
 ---

@@ -2,14 +2,62 @@
 layout: default
 ---
 
-<article class="post">
+<header class="header">
+  <a href="{{ site.url }}">
+    <img src="/assets/logo+type.svg" alt="Duda Neves">
+  </a>
+</header>
+<div class="work-wrapper">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    {% if page.client %}
+    <div class="work-meta row bottom-xs">
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+      {% if page.client %}
+        <div class="wm__client col-xs-4 col-sm-2">
+          <h4>Cliente_</h4>
+          <p class="font_small">{{ page.client }}</p>
+        </div>
+      {% endif %}
 
-</article>
+      {% if page.agency %}
+        <div class="wm__agency col-xs-4 col-sm-2">
+          <h4>Agencia_</h4>
+          <p class="font_small">{{ page.agency }}</p>
+        </div>
+      {% endif %}
+      
+      <div class="wm__pub-date col-xs-4 col-sm-2">
+        {% if page.release-year %}
+        <time datetime="{{ page.work-date }}" itemprop="datePublished">
+          {{ page.release-year }}
+        </time>
+        {% endif %}
+      </div>
+      
+    </div>
+    {% endif %}
+    
+
+    <div class="work" itemprop="articleBody">
+        <!-- <img src="{{page.image}}" alt=""> -->
+      {% if page.image %}
+      <div class="wrk__image" style="background-image: url('{{ page.image }}');" >
+      </div>
+      {% endif %}
+      
+      <div class="wrk__content wrk__content--wrapper">
+        {{ content }}  
+      </div>
+      
+    </div>
+
+    {% if site.disqus.shortname %}
+      {% include disqus_comments.html %}
+    {% endif %}
+
+
+    <input type="hidden" name="column-text" value="{{page.column-text}}">
+  </article>
+
+</div>
