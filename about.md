@@ -6,8 +6,8 @@ layout: page
 
 ![foto.png](/uploads/foto.png)
 
-Arte, Digital, São Paulo, Internet, Publicidade
+texto_centro!Arte, Digital, São Paulo, Internet, Publicidade
 
-contato@dudanev.me
+texto_centro!contato@dudanev.me
 
-*Baixar resumo completo*
+texto_centro!*Baixar resumo completo*
