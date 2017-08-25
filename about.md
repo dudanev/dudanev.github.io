@@ -10,6 +10,5 @@ layout: page
 
 texto_centro!Arte, Digital, São Paulo, Internet, Publicidade
 
-texto_centro!contato@dudanev.me
 
 texto_centro!**[Baixar resumo completo](http://bit.ly/2vuv1jl)**
