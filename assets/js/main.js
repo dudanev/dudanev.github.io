@@ -94,6 +94,66 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	})();
 
+	(function createBlockText(){
+
+		var blockOne = "bloco_um!",
+			blockTwo = "bloco_dois!";
+
+
+		// console.log(isTrue);
+
+		var paragraphs = $('.wrk__content p');
+
+		paragraphs.each(function (){
+			var _ = $(this);
+			var found = false;
+			var newColOne, newColTwo;
+			// console.log(colOne);
+			var index = _.text().indexOf(blockOne);
+			
+			// console.log(index);
+
+			if(index > -1) {
+				// console.log(index);
+				_.addClass('txt-block txt-block__one');
+				var txt = _.text();
+
+				txt = txt.slice(blockOne.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// console.log(_.text());
+				// _.wrap(container);
+				
+			}
+
+			index = _.text().indexOf(blockTwo);
+			if (index > -1) {
+				_.addClass('txt-block txt-block__two');
+				var txt = _.text();
+
+				txt = txt.slice(blockTwo.length, txt.length);
+				// console.log(txt, colOne.length );
+				_.text(txt)
+				// container.html(_);
+				// _.remove();
+				found = true;
+			}
+
+			if (found) {
+				var col = "<div class='col-sm-6'></div>";
+				var flexContainer = "<div class='row'></div>";
+				$('.txt-block').wrap(col);
+				$('.col-sm-6').wrapAll(flexContainer);
+			}
+
+			
+
+
+		});
+
+
+	})();
+
 	(function alignTextCenter(){
 
 		var paragraphs = $('.wrk__content p');
@@ -126,3 +186,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 });
 
+$(function(){
+
+	// console.log($(location).attr('pathname'));
+	var paragraphs = $('.wrk__content p');
+	if($(location).attr('pathname') == '/about/') {
+		
+		paragraphs.each(function(){
+			a = $(this);
+			if ($(this).children('a')){
+				a.css('text-align', 'center');
+			}
+		});
+	}
+});
