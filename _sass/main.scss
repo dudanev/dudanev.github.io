@@ -22,6 +22,11 @@ body {
   -ms-overflow-style:none;
 }
 
+a { color: $text-color; 
+	&:hover {
+		color: #e67e22;
+	}
+}
 a:focus { outline: none; }
 
 .page-content {

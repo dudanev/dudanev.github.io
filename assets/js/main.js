@@ -126,3 +126,17 @@ document.addEventListener("DOMContentLoaded", function() {
 
 });
 
+$(function(){
+
+	// console.log($(location).attr('pathname'));
+	var paragraphs = $('.wrk__content p');
+	if($(location).attr('pathname') == '/about/') {
+		
+		paragraphs.each(function(){
+			a = $(this);
+			if ($(this).children('a')){
+				a.css('text-align', 'center');
+			}
+		});
+	}
+});
