@@ -8,7 +8,8 @@ layout: page
 
 
 
-texto_centro!Arte, Digital, São Paulo, Internet, Publicidade
 
+texto_centro!*Arte, Digital, São Paulo, Internet, Publicidade
+*
 
 texto_centro![*Baixar resumo completo*](http://bit.ly/2vuv1jl)
