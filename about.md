@@ -10,4 +10,4 @@ layout: page
 
 contato@dudanev.me
 
-[**Baixar Resumo Completo**](http://bit.ly/2vuv1jl)
+[**Baixar Resumo Completo**](http://bit.ly/2wtlRIk)
