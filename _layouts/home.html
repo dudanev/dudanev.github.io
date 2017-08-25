@@ -15,7 +15,7 @@ layout: default
 			{% for post in site.posts %}
 			<li class="work-item" data-title="{{ post.title }}">
 				<a href="{{post.url}}">
-					<img src="{{ post.thumb }}" onhashchange="changeOpacity()" />
+					<img src="{{ post.thumb_image }}" onhashchange="changeOpacity()" />
 				</a>
 			</li>
 			{% endfor %}
