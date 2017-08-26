@@ -32,6 +32,6 @@ texto_centro!Junho / Setembro
 
 ![IO-imagem.png](/uploads/IO-imagem.png)
 
-texto_centro!*Redação / **Monielle Souza***
+texto_centro!*Redação / Monielle Souza*
 
-texto_centro!*Direção de Arte / **Duda Nev***
+texto_centro!*Direção de Arte / Duda Nev*
