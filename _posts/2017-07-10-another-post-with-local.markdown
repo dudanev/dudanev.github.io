@@ -25,14 +25,14 @@ Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar p
 
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-6" markdown="1">
 
 ### ***Objetivo***
 
 Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-6" markdown="1">
 
 ### ***Distorção***
 
