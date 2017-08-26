@@ -26,7 +26,7 @@ it's essential.
 
 texto_centro!Edição 54 / Edição 56
 
-![capa.png](/uploads/capa.png)
+![capa-revista.png](/uploads/capa-revista.png)
 
 texto_centro!Junho / Setembro
 
