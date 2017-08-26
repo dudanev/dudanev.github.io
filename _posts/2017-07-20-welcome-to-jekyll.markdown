@@ -30,7 +30,7 @@ texto_centro!Edição 54 / Edição 56
 
 texto_centro!Junho / Setembro
 
-![IO-imagem.png](/uploads/IO-imagem.png)
+![IO-imagem-2.png](/uploads/IO-imagem-2.png)
 
 texto_centro!*Redação / Monielle Souza*
 
