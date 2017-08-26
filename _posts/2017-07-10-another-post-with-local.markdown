@@ -14,6 +14,6 @@ coluna_um!Uma empresa focada na reabilitação auditiva de excelência chega a S
 
 coluna_dois!A company focused on auditory rehabilitation of excellence arrives in Salvador, Bahia. A campaign was launched to launch the unit, the first regional contact with the public, aimed at illustrating a brand personality and showing its behavior throughout the communication.
 
-### *Salvador é uma cidade sonora*
+### *SALVADOR É UMA CIDADE SONORA*
 
 coluna_um!Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
