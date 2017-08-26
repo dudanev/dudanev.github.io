@@ -17,7 +17,7 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 ### *SALVADOR É UMA CIDADE SONORA*
 
 <div class="row">
-<div class="col-sm-6">
+<div class="col-sm-6" markdown="1">
 
 ### ***Insight***
 
