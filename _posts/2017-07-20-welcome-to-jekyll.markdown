@@ -28,9 +28,9 @@ texto_centro!Edição 54 / Edição 56
 
 ![capa.png](/uploads/capa.png)
 
-texto_centro!Junho | Setembro
+texto_centro! Junho | Setembro
 
 ![IO-ClassCasa.png](/uploads/IO-ClassCasa.png)
 
-texto_centro!Redação | **Monielle Souza**\
-texto_centro!Direção de Arte | **Duda Nev**
+texto_centro! Redação | **Monielle Souza**\
+texto_centro! Direção de Arte | **Duda Nev**
