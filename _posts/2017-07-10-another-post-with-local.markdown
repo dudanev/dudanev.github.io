@@ -16,4 +16,4 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 ### *SALVADOR É UMA CIDADE SONORA*
 
-coluna_um!Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
+coluna_um!Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
