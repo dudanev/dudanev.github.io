@@ -6,6 +6,7 @@ agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-projeto.png"
 thumb_image: "/uploads/Untitled-2.png"
+is_title-striked: true
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
 
@@ -13,7 +14,7 @@ coluna_um!Uma empresa focada na reabilitação auditiva de excelência chega a S
 
 coluna_dois!A company focused on auditory rehabilitation of excellence arrives in Salvador, Bahia. A campaign was launched to launch the unit, the first regional contact with the public, aimed at illustrating a brand personality and showing its behavior throughout the communication.
 
-## **_____**
+## 
 
 ### Salvador é uma cidade sonora
 
