@@ -1,6 +1,6 @@
 ---
 title: |-
-  SALVADO
+  SALVADOR
   É UMA CIDADE
   SONORA
 date: 2017-07-10 01:32:00 Z
@@ -8,6 +8,7 @@ client: Menthel Aparelhos Auditivos
 agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-projeto.png"
+thumb_image: "/uploads/Untitled-2.png"
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
 
