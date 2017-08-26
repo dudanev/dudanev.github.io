@@ -25,7 +25,7 @@ Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar p
 
 </div>
 
-<div class="col-sm-6">
+<div class="col-sm-6" markdown="1">
 
 ### ***Objetivo***
 
