@@ -11,8 +11,9 @@ client: Ió Brasil
 agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-io-1080x400-2.png"
-thumb: http://unsplash.it/440/700
+thumb_image: "/uploads/IO-ClassCasa-CAPA.png"
 is_title-striked: true
+thumb: http://unsplash.it/440/700
 layout: post
 ---
 
@@ -25,4 +26,12 @@ it's essential.
 
 texto_centro!Edição 54 / Edição 56
 
-![capa.png](/uploads/capa.png)
+![capa-revista.png](/uploads/capa-revista.png)
+
+texto_centro!Junho / Setembro
+
+![IO-imagem-2.png](/uploads/IO-imagem-2.png)
+
+texto_centro!*Redação / Monielle Souza*
+
+texto_centro!*Direção de Arte / Duda Nev*
