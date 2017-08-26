@@ -6,7 +6,7 @@ agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-projeto.png"
 thumb_image: "/uploads/Untitled-2.png"
-is_title-striked: true
+is_title-striked: false
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
 
