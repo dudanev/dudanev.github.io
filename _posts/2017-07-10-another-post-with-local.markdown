@@ -29,13 +29,16 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 ### ***Objetivo***
 
-*Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*</div>
+*Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*]
+
+</div>
 
 <div class="col-sm-6" markdown="1">
 
 ### ***Distorção***
 
 *A distorção de alguns elementos nas peças transpassa a ideia de algo que teve sua forma natural alterada, transformando-se em algo novo, ilustrando a ideia de "redescoberta".* 
+
 </div>
 
 
