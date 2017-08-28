@@ -36,8 +36,8 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 ### ***Distorção***
 
 *A distorção de alguns elementos nas peças transpassa a ideia de algo que teve sua forma natural alterada, transformando-se em algo novo, ilustrando a ideia de "redescoberta".*
-</div>
 
 </div>
+
 
 ![typo-d6eabe.png](/uploads/typo-d6eabe.png)
