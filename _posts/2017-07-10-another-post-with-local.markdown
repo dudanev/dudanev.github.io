@@ -29,14 +29,14 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 ### ***Objetivo***
 
-Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
+*Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*
 </div>
 
 <div class="col-sm-6" markdown="1">
 
 ### ***Distorção***
 
-Insight, Como deve ser para uma pessoa com perda auditiva não poder desfrutar plenamente da sua própria cultura, tão forte na cidade, por não poder ouvir?
+*A distorção de alguns elementos nas peças transpassa a ideia de algo que teve sua forma natural alterada, transformando-se em algo novo, ilustrando a ideia de "redescoberta". *
 </div>
 
 </div>
