@@ -29,7 +29,7 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 ### ***Objetivo***
 
-*Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*]
+*Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*
 
 </div>
 
@@ -43,4 +43,4 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 </div>
 
-![typo-007a55.png](/uploads/typo-007a55.png)
+![typo-2.png](/uploads/typo-2.png)
