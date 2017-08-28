@@ -32,6 +32,10 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 *Buscamos, então, em nossa campanha de lançamento, criar uma relação direta entre a chegada da Menthel na cidade e o resgate dessa sensação.*
 </div>
 
+### ***Tipografia***
+![typo.png](/uploads/typo.png)
+
+
 <div class="col-sm-6" markdown="1">
 
 ### ***Distorção***
