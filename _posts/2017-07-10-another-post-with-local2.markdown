@@ -1,5 +1,7 @@
 ---
-title: Post made with siteleaf
+title: |-
+  Lançamento
+  Linha Coco Isis
 date: 2017-07-10 01:32:00 Z
 image: "/uploads/leitedecoco-capaProjeto.png"
 thumb_image: "/uploads/LeiteCOCO-ISis.png"
