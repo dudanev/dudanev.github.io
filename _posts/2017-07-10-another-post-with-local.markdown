@@ -5,7 +5,7 @@ client: Menthel
 agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/CAPA-Salvador-5.png"
-thumb_image: "/uploads/Untitled-2.png"
+thumb_image: "/uploads/capa-salvador.png"
 is_title-striked: false
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
