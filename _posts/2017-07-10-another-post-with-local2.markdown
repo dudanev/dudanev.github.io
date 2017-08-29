@@ -33,9 +33,11 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 *Além de toda credibilidade e curiosidade propositalmente provocada com a campanha, fazer com o que o público tenha curiosidade em experimentar o produto e torná-lo de sua preferência, transformando o consudo em hábito.*
 
 </div>
+</div>
 
 ![key-coco.png](/uploads/key-coco.png)
 
+<div class="row">
 <div class="col-sm-6" markdown="1">
 
 ### ***Layout***
@@ -43,7 +45,7 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 *A direção de arte envolveu todo mockup, tratamento de fotos, luz, sombra, tons e tipografia. O design conversa com toda comunicação da empresa, transparece e associa toda qualidade do produto e incita o uso do mesmo em receitas caseiras.*
 
 </div>
-
+</div>
 ![zoom-coco.png](/uploads/zoom-coco.png)
 
 
