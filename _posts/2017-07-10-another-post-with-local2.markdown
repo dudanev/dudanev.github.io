@@ -6,7 +6,7 @@ date: 2017-07-10 01:32:00 Z
 client: Isis
 agency: Ágora
 release-year: 2017
-image: "/uploads/leitedecoco-capaProjeto-ajuste1-ok.png"
+image: "/uploads/leitedecoco-capaProjeto-ajuste-2-90.png"
 thumb_image: "/uploads/LeiteCOCO-ISis-556-100.png"
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
 ---
