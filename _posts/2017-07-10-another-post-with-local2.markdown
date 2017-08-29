@@ -44,4 +44,6 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 </div>
 
+![zoom-coco.png](/uploads/zoom-coco.png)
+
 
