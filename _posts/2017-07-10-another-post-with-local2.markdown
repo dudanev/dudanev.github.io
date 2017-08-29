@@ -37,6 +37,9 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 ![key-coco.png](/uploads/key-coco.png)
 
+
+![zoom-coco.png](/uploads/zoom-coco.png)
+
 <div class="row">
 <div class="col-sm-6" markdown="1">
 
@@ -46,6 +49,5 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 </div>
 </div>
-![zoom-coco.png](/uploads/zoom-coco.png)
 
 
