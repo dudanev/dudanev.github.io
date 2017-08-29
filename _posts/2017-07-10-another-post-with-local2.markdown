@@ -1,7 +1,7 @@
 ---
 title: |-
-  Lançamento
-  Linha Coco Isis
+  LANÇAMENTO
+  LINHA COCO ISIS
 date: 2017-07-10 01:32:00 Z
 client: Isis
 agency: Ágora
