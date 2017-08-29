@@ -36,4 +36,12 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 ![key-coco.png](/uploads/key-coco.png)
 
+<div class="col-sm-6" markdown="1">
+
+### ***Layout***
+
+*A direção de arte envolveu todo mockup, tratamento de fotos, luz, sombra, tons e tipografia. O design conversa com toda comunicação da empresa, transparece e associa toda qualidade do produto e incita o uso do mesmo em receitas caseiras.*
+
+</div>
+
 
