@@ -211,7 +211,7 @@ a:focus { outline: none; }
 }
 
 .wrk__content {
-
+	p { font-size: 1.1111em; line-height: 2;}
 	&.wrk__content--wrapper {
 		max-width: 70%;
 		margin: 0 auto;
@@ -405,4 +405,10 @@ a:focus { outline: none; }
 
 .text-center {
 	text-align: center;
+}
+
+.margin-mobile {
+	@media (max-width: 480px) {
+		margin: 0 !important;
+	}
 }

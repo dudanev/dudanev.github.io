@@ -19,10 +19,10 @@ layout: default
         </div>
       {% endif %}
 
-      {% if page.agency %}
+      {% if page.type %}
         <div class="wm__agency col-xs-4 col-sm-2">
-          <h4>Agencia_</h4>
-          <p class="font_small">{{ page.agency }}</p>
+          <h4>Tipo_</h4>
+          <p class="font_small">{{ page.type }}</p>
         </div>
       {% endif %}
       
@@ -49,6 +49,12 @@ layout: default
           </h1>
         {% endif %}
         {{ content }}  
+
+        {% if page.credits_text %}
+          <div class="credits text-center">
+            {{ page.credits_text }}
+          </div>
+        {% %}
       </div>
       
     </div>
