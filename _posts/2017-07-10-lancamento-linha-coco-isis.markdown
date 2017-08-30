@@ -12,7 +12,6 @@ credits_text: |-
 
 
   Duda / Direção de Arte
-agency: Ágora
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
 ---
 
