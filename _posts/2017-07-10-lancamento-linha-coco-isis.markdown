@@ -9,6 +9,8 @@ image: "/uploads/leitedecoco-capaProjeto-ajuste-2-90.png"
 thumb_image: "/uploads/LeiteCOCO-ISis-556-100.png"
 credits_text: |-
   Moniele / Direção de Texto
+
+
   Duda / Direção de Arte
 agency: Ágora
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
