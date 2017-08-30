@@ -406,3 +406,9 @@ a:focus { outline: none; }
 .text-center {
 	text-align: center;
 }
+
+.margin-mobile {
+	@media (max-width: 480px) {
+		margin: 0 !important;
+	}
+}
