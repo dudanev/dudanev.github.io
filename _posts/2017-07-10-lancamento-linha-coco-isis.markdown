@@ -4,10 +4,13 @@ title: |-
   LINHA COCO ISIS
 date: 2017-07-10 01:32:00 Z
 client: Isis
-agency: Ágora
 release-year: 2017
 image: "/uploads/leitedecoco-capaProjeto-ajuste-2-90.png"
 thumb_image: "/uploads/LeiteCOCO-ISis-556-100.png"
+credits_text: |-
+  Moniele / Direção de Texto
+  Duda / Direção de Arte
+agency: Ágora
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
 ---
 
@@ -17,7 +20,7 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 ### ***EXPERIMENTE O SABOR DO NOVO***
 
-<div class="row">
+<div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
 
 ### ***Insight***
@@ -40,7 +43,7 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 ![zoom-coco.png](/uploads/zoom-coco.png)
 
-<div class="row">
+<div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
 
 ### ***Layout***
