@@ -17,6 +17,7 @@ defaults:
     client: none
     agency: none
     image: http://via.placeholder.com/1080x400
+    is_on: false
     is_title-striked: false
 email: your-email@domain.com
 description: 'Write an awesome description for your new site here. You can edit this

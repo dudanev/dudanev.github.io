@@ -21,6 +21,21 @@ document.addEventListener("DOMContentLoaded", function() {
 
 		});
 
+		// initialize jQuery object
+		var $grid,
+		 	$btnGroup = $('#filterBtnGroup');
+
+		$grid = $('.grid').isotope({
+
+		});
+
+		$btnGrup.on('click', 'button', function(){
+			var filterValue = $(this).attr('data-filter');
+			$grid.isotope({ filter: filterValue });
+		});
+
+		
+
 	});
 	
 	
