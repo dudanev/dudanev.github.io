@@ -8,7 +8,6 @@ categories:
 - jekyll
 - update
 client: Ió Brasil
-agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-io-1080x400-2.png"
 thumb_image: "/uploads/IO-ClassCasa-CAPA.png"
