@@ -2,11 +2,11 @@
 title: "MENTHEL \nEM SALVADOR"
 date: 2017-07-10 01:32:00 Z
 client: Menthel
-agency: Ágora Comunicação
 release-year: 2017
 image: "/uploads/capa-projeto-ok.png"
 thumb_image: "/uploads/capa-salvador-556-100.png"
 is_title-striked: false
+agency: Ágora Comunicação
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
 
@@ -16,7 +16,7 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 ### ***REDESCUBRA OS SONS DA BAHIA***
 
-<div class="row">
+<div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
 
 ### ***Insight***
