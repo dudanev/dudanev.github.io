@@ -1,7 +1,12 @@
 ---
-title: Post made with siteleaf words
+title: |-
+  Menthel
+  10 Anos
 date: 2017-07-10 01:32:00 Z
-image: http://via.placeholder.com/1080x400
+client: Menthel
+type: Campanha 10 Anos
+release-year: 2017
+image: "/uploads/menthel10anos_out.png"
 thumb: http://via.placeholder.com/480x700
 ---
 
