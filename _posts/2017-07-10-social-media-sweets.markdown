@@ -7,6 +7,7 @@ client: Menthel
 type: Campanha 10 Anos
 release-year: 2017
 image: "/uploads/menthel10anos_out.png"
+thumb_image: "/uploads/menthel10anos_thumb.png"
 thumb: http://via.placeholder.com/480x700
 ---
 
