@@ -16,13 +16,31 @@ document.addEventListener("DOMContentLoaded", function() {
 	  				}
 	  				
 
+					  // initialize jQuery object
+					var $grid = $(grid),
+						$btnGroup = $('#filterBtnGroup');
+						
+					$grid.isotope({
+						layoutMode: 'masonry',
+						itemSelector: '.work-item',
+						masonry: {
+							columnWidth: '.work-sizer',
+							fitWidth: true,
+						}
+						
+					});
 
-	  				var mnsry = new Masonry('.works-grid', {
-	  					itemSelector: '.work-item',
-	  					columnWidth: '.work-sizer',
-	  					fitWidth: true,
+					// $grid = $('.works-grid').isotope({
+					// 	layoutMode: 'masonry',
 
-	  				});
+					// });
+
+					$btnGroup.on('click', 'button', function(){
+						$(this).addClass('active');
+						$(this).siblings().removeClass('active');
+						var filterValue = $(this).attr('data-filter');
+						$grid.isotope({ filter: filterValue });
+					});
 
 	  			});
   			}
@@ -94,65 +112,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 	})();
 
-	(function createBlockText(){
-
-		var blockOne = "bloco_um!",
-			blockTwo = "bloco_dois!";
-
-
-		// console.log(isTrue);
-
-		var paragraphs = $('.wrk__content p');
-
-		paragraphs.each(function (){
-			var _ = $(this);
-			var found = false;
-			var newColOne, newColTwo;
-			// console.log(colOne);
-			var index = _.text().indexOf(blockOne);
-			
-			// console.log(index);
-
-			if(index > -1) {
-				// console.log(index);
-				_.addClass('txt-block txt-block__one');
-				var txt = _.text();
-
-				txt = txt.slice(blockOne.length, txt.length);
-				// console.log(txt, colOne.length );
-				_.text(txt)
-				// console.log(_.text());
-				// _.wrap(container);
-				
-			}
-
-			index = _.text().indexOf(blockTwo);
-			if (index > -1) {
-				_.addClass('txt-block txt-block__two');
-				var txt = _.text();
-
-				txt = txt.slice(blockTwo.length, txt.length);
-				// console.log(txt, colOne.length );
-				_.text(txt)
-				// container.html(_);
-				// _.remove();
-				found = true;
-			}
-
-			if (found) {
-				var col = "<div class='col-sm-6'></div>";
-				var flexContainer = "<div class='row'></div>";
-				$('.txt-block').wrap(col);
-				$('.col-sm-6').wrapAll(flexContainer);
-			}
-
-			
-
-
-		});
-
-
-	})();
 
 	(function alignTextCenter(){
 
@@ -178,36 +137,7 @@ document.addEventListener("DOMContentLoaded", function() {
 			});	
 		}
 		
-	})();
-	
-
-		// initialize jQuery object
-		var $grid = $('.works-grid'),
-			 $btnGroup = $('#filterBtnGroup');
-			 
-		$grid.isotope({
-			layoutMode: 'masonry',
-			itemSelector: '.work-item',
-			masonry: {
-				columnWidth: '.work-sizer',
-				fitWidth: true,
-			}
-			
-		});
-
-		// $grid = $('.works-grid').isotope({
-		// 	layoutMode: 'masonry',
-
-		// });
-
-		$btnGroup.on('click', 'button', function(){
-			$(this).addClass('active');
-			$(this).siblings().removeClass('active');
-			var filterValue = $(this).attr('data-filter');
-			$grid.isotope({ filter: filterValue });
-		});
-
-		
+	})();	
 
 	
 	
