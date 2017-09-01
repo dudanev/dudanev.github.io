@@ -2,9 +2,11 @@
 title: "MENTHEL \nEM SALVADOR"
 date: 2017-07-10 01:32:00 Z
 client: Menthel
+type: Campanha
 release-year: 2017
 image: "/uploads/capa-projeto-ok.png"
 thumb_image: "/uploads/capa-salvador-556-100.png"
+is_on: true
 is_title-striked: false
 agency: Ágora Comunicação
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg

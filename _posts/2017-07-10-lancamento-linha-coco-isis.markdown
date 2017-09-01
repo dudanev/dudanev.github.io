@@ -4,10 +4,11 @@ title: |-
   LINHA COCO ISIS
 date: 2017-07-10 01:32:00 Z
 client: Isis
+type: Campanha
 release-year: 2017
 image: "/uploads/leitedecoco-capaProjeto-ajuste-2-90.png"
 thumb_image: "/uploads/LeiteCOCO-ISis-556-100.png"
-credits_text: Redação / Monielle Souza | Direção de Arte / Duda Nev
+is_on: true
 agency: Ágora
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
 ---
@@ -16,7 +17,7 @@ coluna_um!*A Isis é uma empresa de derivados lácteos e sucos de frutas present
 
 coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years. Acting in several states of the Northeast, now brings its new line products. The campaign to launch the Coco line was developed, creating all the clothing and its communication.*
 
-### ***EXPERIMENTE O SABOR DO NOVO***
+## *EXPERIMENTE O SABOR DO NOVO*
 
 <div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">

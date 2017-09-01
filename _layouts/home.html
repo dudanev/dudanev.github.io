@@ -9,11 +9,17 @@ layout: default
 </header>
 
 <section class="portfolio">
+		<div id="filterBtnGroup" class="filter-btns">
+			<button data-filter="" class="active">All</button>
+			<button data-filter=".on">On</button>
+			<button data-filter=".off">Off</button>
+		</div>
 		<ul class="works-grid">
 			<div class="work-sizer"></div>
 
 			{% for post in site.posts %}
-			<li class="work-item" data-title="{{ post.title }}">
+			<li class="work-item {% if post.is_on %} on {% else %} off {% endif %}" 
+				data-title="{{ post.title }}">
 				<a href="{{post.url}}">
 					<img src="{{ post.thumb_image }}" onhashchange="changeOpacity()" />
 				</a>
