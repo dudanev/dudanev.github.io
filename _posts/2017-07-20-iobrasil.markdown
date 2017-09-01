@@ -14,6 +14,7 @@ image: "/uploads/capa-io-1080x400-2.png"
 thumb_image: "/uploads/IO-ClassCasa-CAPA.png"
 is_on: true
 is_title-striked: true
+credits_text: "*Redação* / **Monielle Souza** | *Direção de Arte* / **Duda Nev**"
 thumb: http://unsplash.it/440/700
 layout: post
 ---
@@ -32,7 +33,3 @@ texto_centro!Edição 54 / Edição 56
 texto_centro!Junho / Setembro
 
 ![IO-imagem-2.png](/uploads/IO-imagem-2.png)
-
-texto_centro!*Redação / **Monielle Souza***
-
-texto_centro!*Direção de Arte / **Duda Nev***
