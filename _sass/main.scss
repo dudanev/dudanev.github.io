@@ -10,6 +10,16 @@
   font-family: 'FontAwesome', sans-serif;
 }
 
+button {
+	border: 1px solid $text-color;
+	font-family: 'Libre Baskerville', serif;
+	background: #fff;
+	cursor: pointer;
+	&:focus {
+		outline: none;
+	}
+}
+
 ::-webkit-scrollbar {
   display: none;
 }
@@ -104,8 +114,40 @@ a:focus { outline: none; }
 	flex: 1 0 100%;
 	padding: 1em 2em;
 	display: flex;
+	flex-wrap: wrap;
 	@media (min-width: 768px) {
 		padding: 2em;
+	}
+
+	.filter-btns {
+		width: 300px;
+		margin-bottom: 2em;
+		margin-left: auto;
+		margin-right: auto;
+		display: flex;
+		justify-content: center;
+		> button {
+			padding: .5em 2em;
+			font-size: 0.85em;
+			background: #fff;
+			transition: all 280ms ease-in-out;
+			font-weight: 700;
+			text-transform: uppercase;
+			letter-spacing: 2px;
+			&:hover, &.active {
+				background: #2E2E2E;
+				color: #fff;
+			}
+		}
+
+		@media (min-width: 768px) {
+			justify-content: flex-start;
+			margin-left: 35px;
+			margin-right: 35px;
+			width: 100%;
+			margin-bottom: 4em;
+		}
+		
 	}
 }
 

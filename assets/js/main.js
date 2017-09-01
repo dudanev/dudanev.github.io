@@ -22,14 +22,27 @@ document.addEventListener("DOMContentLoaded", function() {
 		});
 
 		// initialize jQuery object
-		var $grid,
-		 	$btnGroup = $('#filterBtnGroup');
-
-		$grid = $('.grid').isotope({
-
+		var $grid = $('.works-grid'),
+			 $btnGroup = $('#filterBtnGroup');
+			 
+		$grid.isotope({
+			layoutMode: 'masonry',
+			itemSelector: '.work-item',
+			masonry: {
+				columnWidth: '.work-sizer',
+				fitWidth: true,
+			}
+			
 		});
 
-		$btnGrup.on('click', 'button', function(){
+		// $grid = $('.works-grid').isotope({
+		// 	layoutMode: 'masonry',
+
+		// });
+
+		$btnGroup.on('click', 'button', function(){
+			$(this).addClass('active');
+			$(this).siblings().removeClass('active');
 			var filterValue = $(this).attr('data-filter');
 			$grid.isotope({ filter: filterValue });
 		});
