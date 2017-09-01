@@ -1,7 +1,5 @@
 ---
-title: |-
-  Menthel
-  10 Anos
+title: Menthel 10 Anos
 date: 2017-07-10 01:32:00 Z
 client: Menthel
 type: Campanha 10 Anos
