@@ -21,8 +21,8 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 <div class="col-sm-6" markdown="1">
 
 ### ***Insight***
-
-*Para a peça conceito da linha de coco, propomos trazer os produtos para seu habitat natural: a cozinha. Afinal, tanto o leite de coco quanto o coco ralado são mais comumente utilizados em receitas, combinados com outros ingredientes.*
+ 
+*Os 10 anos da Menthel veio como uma ótima oportunidade de reforçar a proposta da empresa. Partindo de todo prazer de ouvir e o quanto isso expande os momentos, proporcionando sensações únicas, a campanha traz o mote "Ouvir Expande Seu Mundo".*
 
 </div>
 
@@ -30,7 +30,9 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 
 ### ***Objetivo***
 
-*Além de toda credibilidade e curiosidade propositalmente provocada com a campanha, fazer com o que o público tenha curiosidade em experimentar o produto e torná-lo de sua preferência, transformando o consudo em hábito.*
+*Fortificar a imagem da marca na mente do seu público e fidelizar novos clientes. Trata-se de um campanha que reforça a personalidade da marca, a torna emocional, humana, não se fala de vendas, comunica-se sensações, valoriza o bem estar de seus clientes.*
 
 </div>
 </div>
+
+
