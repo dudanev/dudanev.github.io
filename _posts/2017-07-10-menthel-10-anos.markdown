@@ -36,3 +36,5 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 </div>
 
 ![menthel10anos-Key.png](/uploads/menthel10anos-Key.png)
+
+A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, 
