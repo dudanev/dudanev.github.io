@@ -13,7 +13,7 @@ thumb: http://via.placeholder.com/480x700
 
 coluna_um!A empresa de aparelhos auditivos Menthel chega a seus 10 anos e foi desenvolvida sua campanha de aniversário. O conceito **"Ouvir Expande seu Mundo"** visa reforçar a importância de uma boa audição e a infinidade de momentos maravilhosos que a ausência da mesma limita.
 
-coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday campaign has been developed. The concept ** "Listening Expands Your World" ** aims to reinforce the importance of a good hearing and the infinity of wonderful moments that the absence of it limits.
+coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday campaign has been developed. The concept **"Listening Expands Your World"** aims to reinforce the importance of a good hearing and the infinity of wonderful moments that the absence of it limits.
 
 ## *EXPERIMENTE O SABOR DO NOVO*
 
