@@ -37,4 +37,4 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 
 ![menthel10anos-Key.png](/uploads/menthel10anos-Key.png)
 
-A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, 
+*A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, onde ambas fazem parte de um mesmo momento e subentendesse o conceito da campanha.*
