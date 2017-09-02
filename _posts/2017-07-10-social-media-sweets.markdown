@@ -35,4 +35,4 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 </div>
 </div>
 
-
+![menthel10anos-Key.png](/uploads/menthel10anos-Key.png)
