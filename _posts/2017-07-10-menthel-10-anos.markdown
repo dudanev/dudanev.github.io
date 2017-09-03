@@ -16,7 +16,7 @@ coluna_um!A empresa de aparelhos auditivos Menthel chega a seus 10 anos e foi de
 
 coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday campaign has been developed. The concept "*Listening Expands Your World*" aims to reinforce the importance of a good hearing and the infinity of wonderful moments that the absence of it limits.
 
-## *OUVIR EXPANDE SEU MUNDO*
+# *OUVIR EXPANDE SEU MUNDO*
 
 <div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
