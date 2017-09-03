@@ -52,6 +52,7 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 ![typo-6.png](/uploads/typo-6.png)</div>
 
 </div>
+</div>
 
 ![keyvisual-okk.png](/uploads/keyvisual-okk.png)
 
