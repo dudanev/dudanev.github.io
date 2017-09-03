@@ -16,7 +16,7 @@ coluna_um!Uma empresa focada na reabilitação auditiva de excelência chega a S
 
 coluna_dois!A company focused on auditory rehabilitation of excellence arrives in Salvador, Bahia. A campaign was launched to launch the unit, the first regional contact with the public, aimed at illustrating a brand personality and showing its behavior throughout the communication.
 
-## *Redescubra os Sons da Bahia*
+## *REDESCUBRA OS SONS DA BAHIA*
 
 <div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
@@ -46,6 +46,7 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 <div class="col-sm-6" markdown="1">
 
 ![typo-4.png](/uploads/typo-4.png)
+
 </div>
 </div>
 
