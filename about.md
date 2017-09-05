@@ -10,5 +10,5 @@ layout: page
 
 *contato@dudanev.me*
 
-[**Baixar Resumo Completo**](http://bit.ly/2wtlRIk)
+[**Baixar Resumo Completo**](http://bit.ly/2xMQZjN)
 
