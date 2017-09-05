@@ -6,7 +6,7 @@ layout: page
 
 ![foto-5.png](/uploads/foto-5.png)
 
-*Arte, Digital, São Paulo, Internet, Publicidade*
+*Arte, Digital, Branding, São Paulo, Internet, Publicidade*
 
 *contato@dudanev.me*
 

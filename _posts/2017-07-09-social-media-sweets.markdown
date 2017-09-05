@@ -3,10 +3,23 @@ title: |-
   Social Media
   Sweets
 date: 2017-07-09 00:00:00 Z
+tags:
+- torta
+- salgados
+- sweets
+- rede social
+- facebook
+- instagram
+- festival
+- morango
+- chocolate
 client: Sweets
 type: Social Media
 release-year: 2016~2017
 image: "/uploads/Sweets-SocialMedia-projeto-okk.png"
+thumb_image: "/uploads/CAPA-SWEETS-socialmedia-100-OK.png"
+is_on: true
+is_title-striked: false
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg
 layout: post
 ---
@@ -35,4 +48,4 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 </div>
 </div>
 
-![posts.png](/uploads/posts.png)
+![posts-ok2.png](/uploads/posts-ok2.png)

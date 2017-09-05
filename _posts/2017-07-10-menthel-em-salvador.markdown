@@ -1,11 +1,20 @@
 ---
 title: "MENTHEL \nEM SALVADOR"
 date: 2017-07-10 01:32:00 Z
+tags:
+- salvador
+- aparelhos auditivos
+- menthel
+- lançamento
+- unidade
+- bahia
+- sons
+- redescubra
 client: Menthel
 type: Campanha
 release-year: 2017
-image: "/uploads/capa-projeto-ok.png"
-thumb_image: "/uploads/capa-salvador-556-100.png"
+image: "/uploads/capa-projeto-ok-cf7703.png"
+thumb_image: "/uploads/capa-salvador0OKK-b92939.png"
 is_on: true
 is_title-striked: false
 credits_text: Planejamento / Maria Eduarda Nascimento | Redação / Monielle Souza |

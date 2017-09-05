@@ -5,7 +5,7 @@ client: Menthel
 type: Campanha 10 Anos
 release-year: 2017
 image: "/uploads/menthel10anos_out-100-4.png"
-thumb_image: "/uploads/menthel10anos_thumb.png"
+thumb_image: "/uploads/10anos-Menthel.png"
 is_title-striked: false
 credits_text: Planejamento/ Maria Eduarda Nascimento | Redação/ Monielle Souza | Direção
   de Arte/ Duda Nev e Ian Raposo
