@@ -4,7 +4,7 @@ date: 2017-07-10 01:32:00 Z
 client: Menthel
 type: Campanha
 release-year: 2017
-image: "/uploads/capa-projeto-ok.png"
+image: "/uploads/capa-salvador0OKK.png"
 thumb_image: "/uploads/capa-salvador0OK.png"
 is_on: true
 is_title-striked: false
