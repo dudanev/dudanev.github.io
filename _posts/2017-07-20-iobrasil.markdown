@@ -10,7 +10,7 @@ categories:
 client: Ió Brasil
 type: Anúncio de Revista
 release-year: 2017
-image: "/uploads/capa-io-1080x400-2.png"
+image: "/uploads/IO-ClassCasa-CAPAZOOM.png"
 thumb_image: "/uploads/IO-ClassCasa-CAPA.png"
 is_on: true
 is_title-striked: true
