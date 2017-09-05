@@ -1,6 +1,15 @@
 ---
 title: "MENTHEL \nEM SALVADOR"
 date: 2017-07-10 01:32:00 Z
+tags:
+- salvador
+- aparelhos auditivos
+- menthel
+- lançamento
+- unidade
+- bahia
+- sons
+- redescubra
 client: Menthel
 type: Campanha
 release-year: 2017
