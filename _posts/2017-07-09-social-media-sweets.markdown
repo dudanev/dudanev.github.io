@@ -17,7 +17,7 @@ client: Sweets
 type: Social Media
 release-year: 2016~2017
 image: "/uploads/Sweets-SocialMedia-projeto-okk.png"
-thumb_image: "/uploads/CAPA-SWEETS-socialmedia.png"
+thumb_image: "/uploads/CAPA-SWEETS-socialmedia-100-OK.png"
 is_on: true
 is_title-striked: false
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg
