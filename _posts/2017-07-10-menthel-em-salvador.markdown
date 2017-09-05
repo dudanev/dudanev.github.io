@@ -13,8 +13,8 @@ tags:
 client: Menthel
 type: Campanha
 release-year: 2017
-image: "/uploads/capa-salvador0OKK.png"
-thumb_image: "/uploads/capa-salvador0OK.png"
+image: "/uploads/capa-projeto-ok-cf7703.png"
+thumb_image: "/uploads/capa-salvador0OKK-b92939.png"
 is_on: true
 is_title-striked: false
 credits_text: Planejamento / Maria Eduarda Nascimento | Redação / Monielle Souza |
