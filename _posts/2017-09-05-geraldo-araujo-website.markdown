@@ -16,4 +16,6 @@ coluna_um!Geraldo Araújo é uma marca que se tornou referência no mercado regi
 
 coluna_dois!Geraldo Araújo is a brand that has become a reference in the regional textile market. Located in the city center of Recife, with a privileged structure and location, it caters to thousands of customers per day. It is a popular company that offers fair prices and great service.
 
-## ***NOVO LAYOUT***
+
+
+![geraldo-projeto.png](/uploads/geraldo-projeto.png)
