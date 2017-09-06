@@ -11,11 +11,11 @@ tags:
 - sons
 - redescubra
 client: Menthel
-type: Campanha
+type: Campanha Publicitária
 release-year: 2017
 image: "/uploads/capa-projeto-ok-cf7703.png"
 thumb_image: "/uploads/capa-salvador0OKKk.png"
-is_on: true
+is_on: false
 is_title-striked: false
 credits_text: Planejamento / Maria Eduarda Nascimento | Redação / Monielle Souza |
   Direção de Arte / Duda Nev
@@ -61,6 +61,6 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 </div>
 </div>
 
-![keyvisual-okk.png](/uploads/keyvisual-okk.png)
+![keyvisual-okkk.png](/uploads/keyvisual-okkk.png)
 
 ![dedobramentos5.png](/uploads/dedobramentos5.png)
