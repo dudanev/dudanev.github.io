@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-![foto-5.png](/uploads/foto-5.png)
+![foto-3.png](/uploads/foto-3.png)
 
 *Arte, Digital, Branding, São Paulo, Internet, Publicidade*
 
