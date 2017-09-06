@@ -58,7 +58,7 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 
 ### ***Resultado***
 
-*A página ganhou uma  grande visibilidade nas redes sociais, ultrapassando as expectativas de interação e entrosamento com seu público. Consequentemente, subiu as vendas e fortificou a imagem da empresa. *
+*A página ganhou uma  grande visibilidade nas redes sociais, ultrapassando as expectativas de interação e entrosamento com seu público. Consequentemente, subiu as vendas e fortificou a imagem da empresa. Sucesso nos festivais e promoções divulgados.*
 
 </div>
 </div>
