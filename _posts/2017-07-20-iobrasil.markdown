@@ -16,7 +16,7 @@ client: Ió Brasil
 type: Anúncio de Revista
 release-year: 2017
 image: "/uploads/capa-io-1080x400-2-885cee.png"
-thumb_image: "/uploads/IO-ClassCasa-CAPAZOOM-ok.png"
+thumb_image: "/uploads/IO-ClassCasa-CAPAZOOM-okk.png"
 is_on: false
 is_title-striked: true
 credits_text: "*Redação* / **Monielle Souza** | *Direção de Arte* / **Duda Nev**"
