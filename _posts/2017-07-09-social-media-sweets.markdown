@@ -37,7 +37,7 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 
 ### ***Momento***
 
-*Para a peça conceito da linha de coco, propomos trazer os produtos para seu habitat natural: a cozinha. Afinal, tanto o leite de coco quanto o coco ralado são mais comumente utilizados em receitas, combinados com outros ingredientes.*
+*Sweets inicia seu posicionamento nas redes sociais, mídia nunca antes investida.*
 
 </div>
 
@@ -45,10 +45,20 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 
 ### ***Objetivo***
 
-*Além de toda credibilidade e curiosidade propositalmente provocada com a campanha, fazer com o que o público tenha curiosidade em experimentar o produto e torná-lo de sua preferência, transformando o consudo em hábito.*
+*Com estratégias que conversam com a personalidade da marca e com seu segmento, criamos conteúdos lúdicos e apetitosos interessantes o suficiente para manter o interesse das pessoas na página.*
 
 </div>
 </div>
 
 ![posts-ok4-coments-90-ok.png](/uploads/posts-ok4-coments-90-ok.png)
 ![Sweets-SocialMedia-projeto-parte2-90.png](/uploads/Sweets-SocialMedia-projeto-parte2-90.png)
+
+<div class="row margin-mobile">
+<div class="col-sm-6" markdown="1">
+
+### ***Resultado***
+
+*A página ganhou uma  grande visibilidade nas redes sociais, ultrapassando as expectativas de interação e entrosamento com seu público. Consequentemente, subiu as vendas e fortificou a imagem da empresa. *
+
+</div>
+</div>
