@@ -48,6 +48,5 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 </div>
 </div>
 
-![posts-ok3.png](/uploads/posts-ok3.png)
-
+![posts-ok4-coments.png](/uploads/posts-ok4-coments.png)
 ![Sweets-SocialMedia-projeto-parte2-2.png](/uploads/Sweets-SocialMedia-projeto-parte2-2.png)
