@@ -19,3 +19,7 @@ coluna_dois!Geraldo Araújo is a brand that has become a reference in the region
 
 
 ![geraldo-projeto2.png](/uploads/geraldo-projeto2.png)
+
+## *CONCEITO*
+
+A facilidade, intuitividade e flúida navegação foram os pontos principais idealizados durante a criação do layout. Atual, clean e que atendesse às necessidades, evitando conteúdos longos.
