@@ -4,7 +4,7 @@ date: 2017-07-10 01:32:00 Z
 client: Pupe Braga e Zirpoli
 type: Branding
 release-year: 2017
-image: "/uploads/marca-capa.png"
+image: "/uploads/clave-capaprojeto2.png"
 thumb_image: "/uploads/CAPA-escobar.png"
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 ---
