@@ -1,12 +1,12 @@
 ---
-title: Escobar Advocacia
+title: CAVE BR
 date: 2017-07-10 01:32:00 Z
-client: Pupe Braga e Zirpoli
-type: Branding
+client: CLAVE BR
+type: Branding (Proj. Fantasma)
 release-year: 2017
 image: "/uploads/clave-capaprojeto2.png"
-thumb_image: "/uploads/capa-clave.png"
+thumb_image: "/uploads/cave-capaprojeto2.png"
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 ---
 
-Pupe Braga e Rodrigo Zirpoli se associam e formam um novo escritório de advocacia
+CAVE BR é um festival brasileiro de psytrance que apresenta as melhores atrações mundiais.
