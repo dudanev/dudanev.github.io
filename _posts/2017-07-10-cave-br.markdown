@@ -11,15 +11,14 @@ credits_text: Direção de Arte | Duda Nev
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 ---
 
-coluna_um!CAVE BR é um grande festival brasileiro psicodélico que traz como proposta "Som e Efeito". Grandes atrações, como HILIGHT TRIBE, HI-PROFILE, BLASTOYZ e muitos outros, sonificam a temática nostálgica que embalará o evento. Inspirado nas raves 90s,
+coluna_um!CAVE BR é um grande festival brasileiro psicodélico que traz como proposta "Sons e Efeitos". Grandes atrações, como HILIGHT TRIBE, HI-PROFILE, BLASTOYZ e muitos outros, sonificam a temática nostálgica que embalará o evento. Inspirado nas raves 90s, aconteceram remixes inéditos, misturando-se com sucessos da época. Novos sons, novos efeitos. 
 
-coluna_dois!CAVE BR é um festival brasileiro psicodélico que traz como proposta "Som e Efeito". Gêneros musicais alternativos, pessoas alternativas e um jeito diferente de provocar efeito no público.
+coluna_dois!CAVE BR is a great Brazilian psychedelic festival that brings as a proposal "Sounds and Effects". Great attractions, such as HILIGHT TRIBE, HI-PROFILE, BLASTOYZ and many others, sound the nostalgic theme that will pack the event. Inspired by the raves of the 90s, unreleased remixes have taken place, blending with vintage hits. New sounds, new effects.
 
-![cave-tela1-esp.png](/uploads/cave-tela1-esp.png)
+![cave-tela1-esp-OK.png](/uploads/cave-tela1-esp-OK.png)
 ![TELAS-CAVE-2-OKOK.gif](/uploads/TELAS-CAVE-2-OKOK.gif)
 
-
-
+Diferente do que já existe, a marca traz uma relativa sobriedade à comunicação. Concentrando a atenção na qualidade sonora e seus efeitos, mantendo o mistério e a abertura para momentos inesperados, apresenta cores, texturas psicodélicas, movimentos, traços grosseiros e propositalmente "pouco trabalhados", fazendo alusão à época, introduzindo sua proposta.
 
 ![TELAS-CAVE-3giff-okk.gif](/uploads/TELAS-CAVE-3giff-okk.gif)
 ![TELAS-CAVE-4giff-ok.gif](/uploads/TELAS-CAVE-4giff-ok.gif)
