@@ -6,6 +6,8 @@ type: Branding
 release-year: 2017
 image: "/uploads/cave-capaprojeto3.png"
 thumb_image: "/uploads/capa-clave.png"
+is_on: true
+credits_text: Direção de Arte | Duda Nev
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 ---
 
