@@ -13,7 +13,7 @@ thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 
 coluna_um!CAVE BR é um grande festival brasileiro psicodélico que traz como proposta "Sons e Efeitos". Grandes atrações, como HILIGHT TRIBE, HI-PROFILE, BLASTOYZ e muitos outros, sonificam a temática nostálgica que embalará o evento. Com influências de grandes festivais, como Woodstock e raves 90s, aconteceram remixes inéditos, misturando-se com sucessos da época, transpassando novos efeitos.
 
-coluna_dois!CAVE BR is a great Brazilian psychedelic festival that brings as a proposal "Sounds and Effects". Big ones, like HILIGHT TRIBE, HI-PROFILE, BLASTOYZ and many others, sound the nostalgic theme that will pack the event. With influences from major festivals, such as Woodstock and raves 90s, unreleased remixes happened, mixing with successes of the time, passing through new effects.
+coluna_dois!CAVE BR is a great Brazilian psychedelic festival that brings as a proposal "Sounds and Effects". Big ones, like HILIGHT TRIBE, HI-PROFILE, BLASTOYZ and many others, sound the nostalgic topic that will pack the event. With influences from major festivals, such as Woodstock and raves 90s, unreleased remixes happened, mixing with successes of the time, passing through new effects.
 
 
 ![cave-tela1-esp-OK.png](/uploads/cave-tela1-esp-OK.png)
