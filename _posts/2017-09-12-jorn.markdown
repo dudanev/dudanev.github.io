@@ -1,5 +1,5 @@
 ---
-title: JORN
+title: Jorn
 date: 2017-09-12 18:41:00 Z
 client: Jorn
 type: Branding
