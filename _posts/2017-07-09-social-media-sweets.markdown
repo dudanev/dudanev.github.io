@@ -1,7 +1,7 @@
 ---
 title: |-
   Social Media
-  Sweets
+  SWEETS
 date: 2017-07-09 00:00:00 Z
 tags:
 - torta
@@ -28,7 +28,7 @@ layout: post
 
 coluna_um!Sweets é uma empresa de doces e salgados referência no Grande Recife. Atuante há mais de 26 anos, conquistou o público com suas receitas caseiras, ao ponto de tornar-se ícone de status e desejo. Trata-se de uma marca muito querida e bem vista, com 6 unidades nos melhores shoppings e aeroportos. Em 2016, ela iniciou sua presença no âmbito digital, tornando-se mais próxima dos clientes apaixonados.
 
-coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Acting for more than 26 years, he has won the public with his homemade recipes, to the point of becoming a status and desire icon. It is a well-liked and well-liked brand with 6 units in the best malls and airports. In 2016, she began her digital presence, becoming closer to passionate clients.
+coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Acting for more than 26 years, it has won the public with his homemade recipes, to the point of becoming a status and desire icon. It is a well-liked and well-liked brand with 6 units in the best malls and airports. In 2016, she began her digital presence, becoming closer to passionate clients.
 
 ## *SWEETS NAS REDES SOCIAIS*
 
