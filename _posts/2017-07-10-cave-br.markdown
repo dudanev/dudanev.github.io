@@ -13,10 +13,12 @@ thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 
 coluna_um!CAVE BR é um projeto musical brasileiro que traz como proposta "Cores e Efeitos". Gêneros musicais alternativos, pessoas alternativas e um jeito diferente de provocar efeito no público.
 
-coluna_dois!CAVE BR é um projeto musical brasileiro que traz como proposta "Cores e Efeitos". Gêneros musicais alternativos, pessoas alternativas e um jeito diferente de provocar efeito no público.
+coluna_dois!CAVE BR é um festival brasileiro psicodélico que traz como proposta "Som e Efeito". Gêneros musicais alternativos, pessoas alternativas e um jeito diferente de provocar efeito no público.
 
 ![cave-tela1-esp.png](/uploads/cave-tela1-esp.png)
 ![TELAS-CAVE-2-OKOK.gif](/uploads/TELAS-CAVE-2-OKOK.gif)
-![TELAS-CAVE-3giff-1d56fa.gif](/uploads/TELAS-CAVE-3giff-1d56fa.gif)
-![TELAS-CAVE-4giff.gif](/uploads/TELAS-CAVE-4giff.gif)
+
+
+![TELAS-CAVE-3giff-okk.gif](/uploads/TELAS-CAVE-3giff-okk.gif)
+![TELAS-CAVE-4giff-ok.gif](/uploads/TELAS-CAVE-4giff-ok.gif)
 
