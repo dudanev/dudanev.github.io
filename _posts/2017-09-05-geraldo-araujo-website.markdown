@@ -18,7 +18,6 @@ coluna_dois!Geraldo Araújo is a brand that has become a reference in the region
 
 
 
-![geraldo-projeto2.png](/uploads/geraldo-projeto2.png)
-
+![geraldo-projeto3-91a9fb.png](/uploads/geraldo-projeto3-91a9fb.png)
 
 texto_centro![geraldoaraujo.com.br](www.geraldoaraujo.com.br/)
