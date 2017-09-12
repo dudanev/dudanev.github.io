@@ -4,7 +4,8 @@ permalink: "/about/"
 layout: page
 ---
 
-![FOTO-4-8b6efc.png](/uploads/FOTO-4-8b6efc.png)
+![FOTO-340.png](/uploads/FOTO-340.png)
+
 *Arte, Digital, Branding, São Paulo, Internet, Publicidade*
 
 *contato@dudanev.me*
