@@ -23,7 +23,7 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 
 ### ***Insight***
  
-*Os 10 anos da Menthel veio como uma ótima oportunidade de reforçar a proposta da empresa. Partindo de todo prazer de ouvir e o quanto isso expande os momentos, proporcionando sensações únicas, a campanha traz o mote "Ouvir Expande Seu Mundo".*
+*Os 10 anos da Menthel vieram como uma ótima oportunidade de reforçar a proposta da empresa. Partindo de todo prazer de ouvir e o quanto isso expande os momentos, proporcionando sensações únicas, a campanha traz o mote "Ouvir Expande Seu Mundo".*
 
 </div>
 
@@ -31,11 +31,11 @@ coluna_dois!A Menthel hearing aid company reaches its 10 years and its birthday 
 
 ### ***Objetivo***
 
-*Fortificar a imagem da marca na mente do seu público e fidelizar novos clientes. Trata-se de um campanha que reforça a personalidade da marca, a torna emocional, humana, não se fala de vendas, comunica-se sensações, valoriza o bem estar de seus clientes.*
+*Fortificar a imagem da marca na mente do seu público e fidelizar novos clientes. Trata-se de um campanha que reforça a personalidade da marca, a torna emocional, humana, não se fala de vendas, comunica-se sensações, valoriza o bem-estar de seus clientes.*
 
 </div>
 </div>
 
 ![menthel10anos-Key-ok.png](/uploads/menthel10anos-Key-ok.png)
 
-*A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, onde ambas fazem parte de um mesmo momento e subentendesse o conceito da campanha.*
+*A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, onde ambas fazem parte de um mesmo momento e subentende-se o conceito da campanha.*
