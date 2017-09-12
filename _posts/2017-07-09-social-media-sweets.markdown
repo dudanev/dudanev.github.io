@@ -26,9 +26,9 @@ thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg
 layout: post
 ---
 
-coluna_um!Sweets é uma empresa de doces e salgados referência no Grande Recife. Atuante há mais de 26 anos, conquistou todo o público com suas receitas caseiras, ao ponto de torna-se ícone de status e desejo. Trata-se de uma marca muito querida e bem vista, conta com 6 unidades, entre elas nos melhores shoppings e aeroportos. Em 2016, ela iniciou sua presença no âmbito digital, em redes sociais, mantendo constante contato com seus seguidores.
+coluna_um!Sweets é uma empresa de doces e salgados referência no Grande Recife. Atuante há mais de 26 anos, conquistou o público com suas receitas caseiras, ao ponto de tornar-se ícone de status e desejo. Trata-se de uma marca muito querida e bem vista, com 6 unidades nos melhores shoppings e aeroportos. Em 2016, ela iniciou sua presença no âmbito digital, tornando-se mais próxima dos clientes apaixonados.
 
-coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Acting for more than 26 years, he has won the entire public with his homemade recipes, to the point of becoming icon of status and desire. It is a well-liked and well-liked brand, with 6 units, among them in the best malls and airports. In 2016, she began her presence in the digital sphere, in social networks, maintaining constant contact with its followers.
+coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Acting for more than 26 years, he has won the public with his homemade recipes, to the point of becoming a status and desire icon. It is a well-liked and well-liked brand with 6 units in the best malls and airports. In 2016, she began her digital presence, becoming closer to passionate clients.
 
 ## *SWEETS NAS REDES SOCIAIS*
 
