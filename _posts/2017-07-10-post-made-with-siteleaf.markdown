@@ -2,11 +2,11 @@
 title: CAVE BR
 date: 2017-07-10 01:32:00 Z
 client: CAVE BR
-type: Branding (Proj. Fantasma)
+type: Branding
 release-year: 2017
-image: "/uploads/cave-capaprojeto2.png"
+image: "/uploads/cave-capaprojeto3.png"
 thumb_image: "/uploads/capa-clave.png"
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg
 ---
 
-CAVE BR é um festival brasileiro de psytrance que apresenta as melhores atrações mundiais.
+![cave-tela1.png](/uploads/cave-tela1.png)
