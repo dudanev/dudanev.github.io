@@ -13,5 +13,4 @@ coluna_um!CAVE BR é um projeto musical brasileiro que traz como proposta "Cores
 
 coluna_dois!CAVE BR é um projeto musical brasileiro que traz como proposta "Cores e Efeitos". Gêneros musicais alternativos, pessoas alternativas e um jeito diferente de provocar efeito no público.
 
-![cave-tela1.png](/uploads/cave-tela1.png)
-![TELAS-CAVE-2.gif](/uploads/TELAS-CAVE-2.gif)
+![cave-tela1-esp.png](/uploads/cave-tela1-esp.png)![TELAS-CAVE-2.gif](/uploads/TELAS-CAVE-2.gif)
