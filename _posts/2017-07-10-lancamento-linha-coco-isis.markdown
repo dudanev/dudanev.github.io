@@ -32,7 +32,7 @@ coluna_dois!*Isis is a dairy and fruit juice company on the market for 20 years.
 
 ### ***Objetivo***
 
-*Além de toda credibilidade e curiosidade propositalmente provocada com a campanha, fazer com o que o público tenha curiosidade em experimentar o produto e torná-lo de sua preferência, transformando o consudo em hábito.*
+*Além de toda credibilidade e curiosidade propositalmente provocada com a campanha, fazer com o que o público tenha curiosidade em experimentar o produto e torná-lo de sua preferência, transformando o consumo em hábito.*
 
 </div>
 </div>
