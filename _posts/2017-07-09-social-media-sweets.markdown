@@ -35,17 +35,17 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 <div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
 
-### ***Momento***
+### *Objetivo*
 
-*Sweets inicia seu posicionamento nas redes sociais, mídia nunca antes investida.*
+*Com estratégias que conversam com a personalidade da marca e com seu segmento, criamos conteúdos lúdicos e apetitosos interessantes o suficiente para manter o interesse das pessoas na página.*
 
 </div>
 
 <div class="col-sm-6" markdown="1">
 
-### ***Objetivo***
+### *Resultados*
 
-*Com estratégias que conversam com a personalidade da marca e com seu segmento, criamos conteúdos lúdicos e apetitosos interessantes o suficiente para manter o interesse das pessoas na página.*
+*A página ganhou uma  grande visibilidade nas redes sociais, ultrapassando as expectativas de interação e entrosamento com seu público. Consequentemente, subiu as vendas e fortificou a imagem da empresa. Sucesso nos festivais e promoções divulgados.*
 
 </div>
 </div>
@@ -53,12 +53,3 @@ coluna_dois!Sweets is a sweet and salty reference company in Greater Recife. Act
 ![posts-ok4-coments-90-ok.png](/uploads/posts-ok4-coments-90-ok.png)
 ![Sweets-SocialMedia-projeto-parte2-90.png](/uploads/Sweets-SocialMedia-projeto-parte2-90.png)
 
-<div class="row margin-mobile">
-<div class="col-sm-6" markdown="1">
-
-### ***Resultado***
-
-*A página ganhou uma  grande visibilidade nas redes sociais, ultrapassando as expectativas de interação e entrosamento com seu público. Consequentemente, subiu as vendas e fortificou a imagem da empresa. Sucesso nos festivais e promoções divulgados.*
-
-</div>
-</div>
