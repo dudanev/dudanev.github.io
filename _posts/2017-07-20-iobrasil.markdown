@@ -26,7 +26,7 @@ layout: post
 
 coluna_um!Um lugar onde design, expressividade e arte contam sua própria história. Onde a pluraridade dos significados de cada objeto se comunica com as singularidades de cada um. O habitat do que é essencial.
 
-coluna_dois!A place where design, expressiveness and art tell their own story. Where the plurality of the meanings of each object communicates with the singularities of each. The habitat of what
+coluna_dois!A place where design, expressiveness and art tell their own story. Where the plurality of the meanings of each object communicates with the singularities of each one. The habitat of what
 it's essential.
 
 ![mockup.png](/uploads/mockup.png)
