@@ -1,6 +1,6 @@
 ---
 title: |-
-  Social Media
+  SOCIAL MEDIA
   SWEETS
 date: 2017-07-09 00:00:00 Z
 tags:
