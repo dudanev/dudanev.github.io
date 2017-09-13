@@ -1,0 +1,19 @@
+---
+title: Jorn
+date: 2017-09-12 18:41:00 Z
+client: Jorn
+type: Branding
+release-year: 2017
+image: "/uploads/capa-projeto-4aaa94.png"
+thumb_image: "/uploads/jorn-capa-2.png"
+credits_text: Direção de Arte | Duda Nev
+---
+
+coluna_um!JORN é uma marca de sapatos masculinos que tem um posicionamento diferente, voltada para homens que ainda são muito tradicionais, mas têm interesse em fugir do óbvio. Homens em sintonia com a moda, mas que preservam o estilo clássico, elegante, que querem estar sempre bem vestidos, seja num happy hour ou numa reunião de negócios.
+
+coluna_dois!Jorn is brand of men's shoes that has a different positioning, aimed at men who are still very traditional but have an interest in getting away from the obvious. Men in tune with fashion, but who preserve the classic, elegant style, who want to always be well dressed, whether in a happy hour or a business meeting.
+
+![GIFF.gif](/uploads/GIFF.gif)
+![TELAS-JORN-moldura.png](/uploads/TELAS-JORN-moldura.png)
+![TELA-DEFESA.png](/uploads/TELA-DEFESA.png)
+![TELAS-JORN.png](/uploads/TELAS-JORN.png)

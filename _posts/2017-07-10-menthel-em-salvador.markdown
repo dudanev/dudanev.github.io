@@ -11,11 +11,11 @@ tags:
 - sons
 - redescubra
 client: Menthel
-type: Campanha
+type: Campanha Publicitária
 release-year: 2017
 image: "/uploads/capa-projeto-ok-cf7703.png"
-thumb_image: "/uploads/capa-salvador0OKK-b92939.png"
-is_on: true
+thumb_image: "/uploads/capa-salvador0OKKk.png"
+is_on: false
 is_title-striked: false
 credits_text: Planejamento / Maria Eduarda Nascimento | Redação / Monielle Souza |
   Direção de Arte / Duda Nev
@@ -25,7 +25,7 @@ thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 
 coluna_um!Uma empresa focada na reabilitação auditiva de excelência chega a Salvador, Bahia. Foi desenvolvida a campanha de lançamento da unidade, o primeiro contato com o público regional, visando ilustrar a personalidade da marca e transparecer seu comportamento em toda comunicação.
 
-coluna_dois!A company focused on auditory rehabilitation of excellence arrives in Salvador, Bahia. A campaign was launched to launch the unit, the first regional contact with the public, aimed at illustrating a brand personality and showing its behavior throughout the communication.
+coluna_dois!A company focused on auditory rehabilitation of excellence arrives in Salvador, Bahia. A campaign was developed to launch the unit and the first regional contact with the public, aimed at illustrating brand personality and showing its behavior throughout the communication.
 
 ## *REDESCUBRA OS SONS DA BAHIA*
 
@@ -56,11 +56,10 @@ coluna_dois!A company focused on auditory rehabilitation of excellence arrives i
 
 <div class="col-sm-6" markdown="1">
 
-![typo-6.png](/uploads/typo-6.png)</div>
-
+![typo-6.png](/uploads/typo-6.png)
 </div>
 </div>
 
-![keyvisual-okk.png](/uploads/keyvisual-okk.png)
 
+![keyvisual-okkk.png](/uploads/keyvisual-okkk.png)
 ![dedobramentos5.png](/uploads/dedobramentos5.png)
