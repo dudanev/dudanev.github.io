@@ -71,13 +71,15 @@ a:focus { outline: none; }
 	height: 16px;
 	display: inline-block;
 	vertical-align: middle;
-
+	&:hover { fill: #e67e22; }
+	> svg { width: 16px; height: 16px; }
 	
 	
 
 	@media screen and (min-width: 1024px) {
 		width: 19px;
 		height: 19px;		
+		> svg { width: 19px; height: 19px; }
 	}
 }
 
