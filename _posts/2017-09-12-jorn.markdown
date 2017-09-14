@@ -6,7 +6,7 @@ type: Branding
 release-year: 2017
 image: "/uploads/capa-projeto-4aaa94.png"
 thumb_image: "/uploads/jorn-capa-2.png"
-credits_text: Direção de Arte | Duda Nev
+credits_text: Redação | Monielle Souza • Direção de Arte | Duda Nev
 ---
 
 coluna_um!JORN é uma marca de sapatos masculinos que tem um posicionamento diferente, voltada para homens que ainda são muito tradicionais, mas têm interesse em fugir do óbvio. Homens em sintonia com a moda, mas que preservam o estilo clássico, elegante, que querem estar sempre bem vestidos, seja num happy hour ou numa reunião de negócios.
