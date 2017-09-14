@@ -9,7 +9,8 @@ release-year: 2017
 image: "/uploads/leitedecoco-capaProjeto-ajuste-2-90.png"
 thumb_image: "/uploads/LeiteCOCO-ISis-556-1000OKK.png"
 is_on: false
-credits_text: Redação | Monielle Souza • Direção de Arte | Duda Nev
+credits_text: Planejamento | Maria Eduarda Nascimento • Redação | Monielle Souza •
+  Direção de Arte | Duda Nev
 agency: Ágora
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg
 ---
