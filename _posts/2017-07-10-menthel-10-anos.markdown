@@ -36,22 +36,6 @@ coluna_dois!The Menthel hearing aid company reaches its 10 years and its birthda
 </div>
 </div>
 
-![key-10anos-dimensionado.png](/uploads/key-10anos-dimensionado.png)
-
-<div class="row margin-mobile">
-<div class="col-sm-6" markdown="1">
-
-### *Sobreposição*
-
-*A sensação de expansão se deu pelo tratamento de duas imagens sobrepostas, onde ambas fazem parte de um mesmo momento e subentende-se o conceito da campanha.*
-
-</div>
-
-<div class="col-sm-6" markdown="1">
-
-![key-10anos-dimensionado-zoom1.png](/uploads/key-10anos-dimensionado-zoom1.png)
-
-</div>
-</div>
+![10anos-zoom-pro.png](/uploads/10anos-zoom-pro.png)
 
 
