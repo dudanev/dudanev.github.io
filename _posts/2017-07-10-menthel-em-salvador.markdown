@@ -17,8 +17,8 @@ image: "/uploads/capa-projeto-ok-cf7703.png"
 thumb_image: "/uploads/capa-salvador0OKKk.png"
 is_on: false
 is_title-striked: false
-credits_text: Planejamento / Maria Eduarda Nascimento | Redação / Monielle Souza |
-  Direção de Arte / Duda Nev
+credits_text: Planejamento | Maria Eduarda Nascimento • Redação | Monielle Souza •
+  Direção de Arte | Duda Nev
 agency: Ágora Comunicação
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg
 ---
