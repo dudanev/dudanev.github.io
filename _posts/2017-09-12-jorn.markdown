@@ -17,3 +17,24 @@ coluna_dois!Jorn is brand of men's shoes that has a different positioning, aimed
 ![TELAS-JORN-moldura.png](/uploads/TELAS-JORN-moldura.png)
 ![TELA-DEFESA.png](/uploads/TELA-DEFESA.png)
 ![TELAS-JORN.png](/uploads/TELAS-JORN.png)
+
+div class="row margin-mobile">
+<div class="col-sm-6" markdown="1">
+
+### *Propósito JØRN*
+
+*Acreditamos em um único caminho capaz de levar o homem aonde ele quiser chegar:**a confiança na sua jornada a partir da imagem, a certeza de estar sempre pronto para o que o espera.**
+JØRN é a busca constante pelo equilíbrio do estar e se vestir bem, em qualquer ocasião. É não se limitar apenas aos sapatos, mas explorar as possibilidades, criando uma perfeita combinação do todo. É ultrapassar a fronteira entre o básico e o além do que se pode imaginar.*
+
+</div>
+
+<div class="col-sm-6" markdown="1">
+
+### *Mercado e Público*
+
+*O Brasil tem o 4º maior mercado consumidor de calçados, com cerca de 172 milhões de pares vendidos por ano, é um segmento extremamente resistente à crise. Seu público-alvo consiste em homens entre 25-65 anos, pertencentes às classes A/B, de estilo clássico, refinado e elegante, mas com interesse em fugir do óbvio. Para eles, sapatos são como  investimentos: precisam ser confortáveis, de qualidade, duráveis e para várias ocasiões.*
+
+</div>
+</div>
+
+![apresentacao-Jorn.gif](/uploads/apresentacao-Jorn.gif)
