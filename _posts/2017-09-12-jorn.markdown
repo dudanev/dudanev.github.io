@@ -19,7 +19,7 @@ coluna_dois!Jorn is brand of men's shoes that has a different positioning, aimed
 ![TELA-DEFESA.png](/uploads/TELA-DEFESA.png)
 ![TELAS-JORN.png](/uploads/TELAS-JORN.png)
 
-div class="row margin-mobile">
+<div class="row margin-mobile">
 <div class="col-sm-6" markdown="1">
 
 ### *Propósito JØRN*
