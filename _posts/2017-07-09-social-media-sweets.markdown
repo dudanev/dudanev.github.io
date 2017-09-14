@@ -20,8 +20,8 @@ image: "/uploads/Sweets-SocialMedia-projeto-okk.png"
 thumb_image: "/uploads/CAPA-SWEETS-socialmedia-100-OK.png"
 is_on: true
 is_title-striked: false
-credits_text: Social Media Raíssa Luna | Redação Monielle Souza | Direção de Arte
-  Duda Nev
+credits_text: Social Media | Raíssa Luna • Redação | Monielle Souza • Direção de Arte
+  | Duda Nev
 thumb: https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg
 layout: post
 ---
