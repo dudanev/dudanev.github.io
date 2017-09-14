@@ -6,6 +6,7 @@ type: Branding
 release-year: 2017
 image: "/uploads/capa-projeto-4aaa94.png"
 thumb_image: "/uploads/jorn-capa-2.png"
+is_title-striked: true
 credits_text: Redação | Monielle Souza • Direção de Arte | Duda Nev
 ---
 
