@@ -36,6 +36,5 @@ coluna_dois!The Menthel hearing aid company reaches its 10 years and its birthda
 </div>
 </div>
 
-![10anos-zoom-pro.png](/uploads/10anos-zoom-pro.png)
-
+![10anos-zoom-pro2.png](/uploads/10anos-zoom-pro2.png)
 
